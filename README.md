@@ -12,8 +12,8 @@
 ## Github Stats:
 [![GitHub followers](https://img.shields.io/github/followers/t1noo7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
 
-![](https://github.com/sw-yx/t1noo7/blob/master/generated/overview.svg)
-![](https://github.com/sw-yx/t1noo7/blob/master/generated/languages.svg)
+![](https://github.com/t1noo7/t1noo7/blob/main/generated/overview.svg)
+![](https://github.com/t1noo7/t1noo7/blob/main/generated/languages.svg)
 
 [![someoneelsescloud github stats](https://github-readme-stats.vercel.app/api?username=t1noo7)](https://github.com/t1noo7/github-readme-stats)
 [![someoneelsescloud's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t1noo7)](https://github.com/t1noo7/github-readme-stats)
