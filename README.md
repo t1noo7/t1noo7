@@ -1,4 +1,4 @@
-<img src="images/background.jpg"/>
+<img src="IMGs/IMG_8449.HEIC"/>
 
 # Hi, I'm Sunny and Welcome to Someone Elses Cloud 👋
 ### A video podcast about Microsoft , DevOps, Self Development and my Experiences, as a Consultant in Cloud Engineering.
