@@ -1,6 +1,6 @@
 <img src="IMGs/IMG_8449.HEIC"/>
-
-# Hi, I'm Sunny and Welcome to Someone Elses Cloud 👋
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+# Welcome to mah Cloud Ground 👋
 ### A video podcast about Microsoft , DevOps, Self Development and my Experiences, as a Consultant in Cloud Engineering.
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
