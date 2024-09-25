@@ -11,6 +11,7 @@
 
 ## Github Stats:
 [![GitHub followers](https://img.shields.io/github/followers/t1noo7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
+![My user statistics](images/userstats.svg)
 
 ![](https://github.com/t1noo7/t1noo7/blob/main/generated/overview.svg)
 ![](https://github.com/t1noo7/t1noo7/blob/main/generated/languages.svg)
