@@ -2,7 +2,6 @@
 
 ![Visits](https://img.shields.io/badge/Visits-11719-red)
 # Welcome to mah Cloud Ground 👋
-### A video podcast about Microsoft , DevOps, Self Development and my Experiences, as a Consultant in Cloud Engineering.
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
 
