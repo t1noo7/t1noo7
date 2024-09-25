@@ -1,6 +1,7 @@
 <img src="IMGs/344547650_612108427499863_8286509013161446974_n.jpg"/>
 
 ![Visits](https://img.shields.io/badge/Visits-11719-red)
+![visitors](https://vbr.nathanchung.dev/badge?page_id=t1noo7.t1noo7&color=00cf00)
 # Welcome to mah Cloud Ground 👋
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
