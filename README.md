@@ -1,21 +1,17 @@
-<img src="IMGs/IMG_8449.HEIC"/>
+<img src="IMGs/344547650_612108427499863_8286509013161446974_n.jpg"/>
 
 #### Dropped by:
 ${t1noo7}.${862654640}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
-![visitors](https://visitor-badge.glitch.me/badge?page_id=t1noo7.862654640&left_color=green&right_color=red)
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=t1noo7.862654640&left_color=green&right_color=red)]
 # Welcome to mah Cloud Ground 👋
 ### A video podcast about Microsoft , DevOps, Self Development and my Experiences, as a Consultant in Cloud Engineering.
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
 
 #### You can find me on:
-[![https://youtube.com/c/someoneelsescloud](https://img.shields.io/badge/SomeoneElsesCloud-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/c/someoneelsescloud)
-[![https://someoneelsescloud.medium.com/](https://img.shields.io/badge/someoneelsescloud-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white)](https://someoneelsescloud.medium.com/)
 [![https://www.instagram.com/someoneelsescloud/](https://img.shields.io/badge/someoneelsescloud%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/someoneelsescloud/)
-[![https://twitter.com/some1elsescloud](https://img.shields.io/badge/some1elsescloud%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/some1elsescloud)
 [![https://www.facebook.com/someoneelsescloud](https://img.shields.io/badge/someoneelsescloud-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/someoneelsescloud)
 [![https://www.linkedin.com/in/sphengsavanh/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sphengsavanh)
-[![https://www.someoneelsescloud.com/](https://img.shields.io/badge/SOMEONEELSESCLOUD.COM-BRIGHTGREEN)](https://www.someoneelsescloud.com/)
 
 #### and these Podcast Platforms:
 [![https://open.spotify.com/show/22yAvnD2HPI8E365BfEZZE](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/show/22yAvnD2HPI8E365BfEZZE)
