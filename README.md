@@ -3,6 +3,7 @@
 #### Dropped by:
 ${t1noo7}.${862654640}, https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge
 [![visitors](https://visitor-badge.glitch.me/badge?page_id=t1noo7.862654640&left_color=green&right_color=red)]
+![Visits](https://img.shields.io/badge/Visits-11719-red)
 # Welcome to mah Cloud Ground 👋
 ### A video podcast about Microsoft , DevOps, Self Development and my Experiences, as a Consultant in Cloud Engineering.
 
