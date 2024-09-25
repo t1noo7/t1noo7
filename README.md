@@ -6,8 +6,6 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
 
 #### You can find me on:
-[![https://www.instagram.com/t1noo_/](https://img.shields.io/badge/someoneelsescloud%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/t1noo_/)
-[![https://www.https://www.facebook.com/t1noo.7](https://img.shields.io/badge/someoneelsescloud-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.https://www.facebook.com/t1noo.7)
 [![https://www.linkedin.com/in/duc-toan-963869174/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-toan-963869174/)
 
 ## Github Stats:
