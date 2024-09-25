@@ -1,5 +1,5 @@
 <img src="IMGs/IMG_8449.HEIC"/>
-[![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)]
+[![visitors](https://visitor-badge.glitch.me/badge?page_id=t1noo7&left_color=green&right_color=red)]
 # Welcome to mah Cloud Ground 👋
 ### A video podcast about Microsoft , DevOps, Self Development and my Experiences, as a Consultant in Cloud Engineering.
 
