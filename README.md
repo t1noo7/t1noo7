@@ -9,10 +9,10 @@
 [![https://www.linkedin.com/in/duc-toan-963869174/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-toan-963869174/)
 
 ## Github Stats:
-[![GitHub followers](https://img.shields.io/github/followers/someoneelsescloud.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
+[![GitHub followers](https://img.shields.io/github/followers/t1noo7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
 
-[![someoneelsescloud github stats](https://github-readme-stats.vercel.app/api?username=someoneelsescloud)](https://github.com/someoneelsescloud/github-readme-stats)
-[![someoneelsescloud's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=someoneelsescloud)](https://github.com/someoneelsescloud/github-readme-stats)
+[![someoneelsescloud github stats](https://github-readme-stats.vercel.app/api?username=t1noo7)](https://github.com/t1noo7/github-readme-stats)
+[![someoneelsescloud's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=t1noo7)](https://github.com/t1noo7/github-readme-stats)
 
 ## I Like to dabble in all things cloud:
 [![https://www.terraform.io/](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/)
