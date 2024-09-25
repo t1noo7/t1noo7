@@ -76,7 +76,7 @@ function generateStuffInsideFences(data) {
 
   <ul>
   ${renderedList}
-  <li><a href="https://github.com/sw-yx/sw-yx/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
+  <li><a href="https://github.com/t1noo7/t1noo7/issues/new?assignees=&labels=&template=endorsement-template.md&title=Endorse%3A+SKILL_HERE">Endorse new skill!</a></li>
   </ul>
   ${END_COMMENT}`;
   return listWithFences
