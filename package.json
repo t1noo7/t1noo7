@@ -9,15 +9,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sw-yx/sw-yx.git"
+    "url": "git+https://github.com/t1noo7/t1noo7.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/sw-yx/sw-yx/issues"
+    "url": "https://github.com/t1noo7/t1noo7/issues"
   },
-  "homepage": "https://github.com/sw-yx/sw-yx#readme",
+  "homepage": "https://github.com/t1noo7/t1noo7#readme",
   "dependencies": {
     "@octokit/rest": "^18.0.0",
     "readme-box": "^0.1.2"
