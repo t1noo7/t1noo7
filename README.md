@@ -1,5 +1,6 @@
-<img src="IMGs/344547650_612108427499863_8286509013161446974_n.jpg"/>
-<img src="IMGs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
+![IMG_8449](https://github.com/user-attachments/assets/54e033fc-a219-4e6d-a4ea-b5251e6d65c1)
+![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/75213882-f6a3-4a71-be9b-219d1705895d)
+
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=t1noo7.t1noo7&color=red)
 
@@ -51,7 +52,9 @@
 - FPS Gaming 🎮
 
 <div align="center">
-  <img src="IMGs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"/>
+  <img src="https://github.com/user-attachments/assets/6b4b1b2a-f772-486a-91e9-d8bd41aa1c05" width="200" />
+  <img src="https://github.com/user-attachments/assets/6b4b1b2a-f772-486a-91e9-d8bd41aa1c05" width="200" />
+  <img src="https://github.com/user-attachments/assets/6b4b1b2a-f772-486a-91e9-d8bd41aa1c05" width="200" />
 </div>
 
 <div align="center">
