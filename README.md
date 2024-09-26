@@ -42,7 +42,12 @@
 - Lust wandering 🏝️
 - FPS Gaming 🎮 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
 
-![snake gif](https://github.com/t1noo7/t1noo7/blob/output/github-contribution-grid-snake.gif)
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/t1noo7/t1noo7/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
 
 
 <a href="https://www.buymeacoffee.com/t1lo.choc0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
