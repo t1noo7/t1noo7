@@ -1,4 +1,5 @@
 <img src="IMGs/344547650_612108427499863_8286509013161446974_n.jpg"/>
+<img src="IMGs/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif"/>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=t1noo7.t1noo7&color=red)
 
@@ -10,9 +11,19 @@
 #### You can find me on:
 [![https://www.linkedin.com/in/duc-toan-963869174/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-toan-963869174/)
 
-## Github Stats:
+## Github ⚡ Stats ⚡
 [![GitHub followers](https://img.shields.io/github/followers/t1noo7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
 ![](images/userstats.svg)
+
+<h2 align="center">⚒️ Communicate with 🖥️  ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,r" />
+    <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,java,mysql" /><br>
+</div>
+
+<br/>
+<hr/>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t1noo7/my-stats/master/generated/dark/overview.svg"><img alt="GitHub Statistics for t1l0_ch0co" src="https://raw.githubusercontent.com/t1noo7/github-stats/master/generated/light/overview.svg"></picture>
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t1noo7/my-stats/master/generated/dark/languages.svg"><img alt="Languages used by t1l0_ch0co" src="https://raw.githubusercontent.com/t1noo7/github-stats/master/generated/light/languages.svg"></picture>]
@@ -20,16 +31,13 @@
 ## I Like to dabble in things cloud:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 [![https://azure.com/](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]([https://azure.com/)
-[![https://azure.microsoft.com/en-au/services/devops/](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)](https://azure.microsoft.com/en-au/services/devops/)
 [![https://github.com/someoneelsescloud](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/someoneelsescloud)
 [![https://www.microsoft.com/](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/)
 [![https://www.redhat.com/](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.redhat.com/)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 [![https://www.docker.com/](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![https://kubernetes.io/](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
 [![https://github.com/features/actions](https://img.shields.io/badge/githubactions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-[![https://aws.amazon.com/](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
@@ -40,7 +48,11 @@
 - Watching football league 📺 🏆 ⚽
 - Chilldish Deep 🎶
 - Lust wandering 🏝️
-- FPS Gaming 🎮 ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white)
+- FPS Gaming 🎮
+
+<div align="center">
+  <img src="IMGs/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png"/>
+</div>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -49,5 +61,8 @@
   <br/><br/><br/>
 </div>
 
+<br/>
 
+<div align="center">
 <a href="https://www.buymeacoffee.com/t1lo.choc0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</div>
