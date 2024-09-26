@@ -150,6 +150,18 @@ HTML                     1 repo              ███░░░░░░░░�
  Last Updated on 26/09/2024 19:06:29 UTC
 <!--END_SECTION:waka-->
 
+<br/>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=t1noo7&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+<details> 
+  <summary><h2>🏷️ Holopin Badges</h2></summary>
+
+  <p><a href="https://holopin.io/@t1noo7"><img src="https://holopin.me/t1noo7" alt="@t1noo7&#39;s Holopin board"></a></p>
+</details>
+
 <div align="center">
 <a href="https://www.buymeacoffee.com/t1lo.choc0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
