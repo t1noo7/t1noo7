@@ -26,8 +26,8 @@
 <br/>
 <hr/>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t1noo7/my-stats/master/generated/dark/overview.svg"><img alt="GitHub Statistics for t1l0_ch0co" src="https://raw.githubusercontent.com/t1noo7/github-stats/master/generated/light/overview.svg"></picture>
-<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t1noo7/my-stats/master/generated/dark/languages.svg"><img alt="Languages used by t1l0_ch0co" src="https://raw.githubusercontent.com/t1noo7/github-stats/master/generated/light/languages.svg"></picture>]
+![](https://github.com/t1noo7/t1noo7/blob/main/generated/overview.svg)
+![](https://github.com/t1noo7/t1noo7/blob/main/generated/languages.svg)
 
 ## I Like to dabble in things cloud:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
