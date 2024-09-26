@@ -1,6 +1,7 @@
 ![IMG_8449](https://github.com/user-attachments/assets/54e033fc-a219-4e6d-a4ea-b5251e6d65c1)
 ![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/75213882-f6a3-4a71-be9b-219d1705895d)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=50&pause=1000&color=F73613&vCenter=true&width=1000&height=200&lines=You've+stepped+into+the+void...%F0%9F%92%80;hail+from+the+forgotten+realms...;where+the+demon+Azazel+reigns!)](https://git.io/typing-svg)
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=t1noo7.t1noo7&color=red)
 
