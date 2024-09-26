@@ -14,8 +14,8 @@
 [![GitHub followers](https://img.shields.io/github/followers/t1noo7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
 ![](images/userstats.svg)
 
-<img src="https://raw.githubusercontent.com/t1noo7/github-stats/master/generated/dark/overview.svg" width="320" height="210" alt="GitHub Statistics for t1l0_ch0co">
-<img src="https://raw.githubusercontent.com/t1noo7/github-stats/master/generated/dark/languages.svg" width="320" height="210" alt="Languages used by t1l0_ch0co"">
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t1noo7/my-stats/master/generated/dark/overview.svg"><img alt="GitHub Statistics for t1l0_ch0co" src="https://raw.githubusercontent.com/t1noo7/github-stats/master/generated/light/overview.svg"></picture>][github-stats-custom]
+[<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/t1noo7/my-stats/master/generated/dark/languages.svg"><img alt="Languages used by t1l0_ch0co" src="https://raw.githubusercontent.com/t1noo7/github-stats/master/generated/light/languages.svg"></picture>][github-stats-custom]
 
 ## I Like to dabble in things cloud:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
