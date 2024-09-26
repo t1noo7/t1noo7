@@ -1,7 +1,8 @@
 <img src="IMGs/344547650_612108427499863_8286509013161446974_n.jpg"/>
 
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=t1noo7.t1noo7&color=red)
-# Welcome to mah Cloud Ground 👋
+
+[<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/master/intro.gif" alt="Welcome to t1lo_cho0c0's cloud ground 💀; You're step into the void!" title="Welcome to t1lo_cho0c0's cloud ground 💀; You're step into the void!"/>](https://raymond.li/)
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
