@@ -3,8 +3,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=50&pause=1000&color=F73613&vCenter=true&width=1000&height=200&lines=You've+stepped+into+the+void...%F0%9F%92%80;hail+from+the+forgotten+realms...;where+the+demon+Azazel+reigns!)](https://git.io/typing-svg)
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=t1noo7.t1noo7&color=red)
-
 [<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/master/intro.gif" alt="Welcome to t1lo_cho0c0's cloud ground 💀; You're step into the void!" title="Welcome to t1lo_cho0c0's cloud ground 💀; You're step into the void!"/>](https://raymond.li/)
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
@@ -14,6 +12,7 @@
 [![https://www.linkedin.com/in/duc-toan-963869174/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-toan-963869174/)
 
 ## Github ⚡ Stats ⚡
+![visitors](https://vbr.nathanchung.dev/badge?page_id=t1noo7.t1noo7&color=red)
 [![GitHub followers](https://img.shields.io/github/followers/t1noo7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
 ![](images/userstats.svg)
 
