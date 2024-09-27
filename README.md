@@ -3,7 +3,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Permanent+Marker&size=50&pause=1000&color=F73613&vCenter=true&width=1000&height=200&lines=You've+stepped+into+the+void...%F0%9F%92%80;hail+from+the+forgotten+realms...;where+the+demon+Azazel+reigns!)](https://git.io/typing-svg)
 
-[<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/master/intro.gif" alt="Welcome to t1lo_cho0c0's cloud ground 💀; You're step into the void!" title="Welcome to t1lo_cho0c0's cloud ground 💀; You're step into the void!"/>](https://raymond.li/)
+[<img src="https://camo.githubusercontent.com/9927ff03b556fbf9eab8726c15da88fcfc802a564b3ac9665bf8674579cb9994/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d5065726d616e656e742b4d61726b65722673697a653d35302670617573653d3130303026636f6c6f723d463733363133267643656e7465723d747275652677696474683d31303030266865696768743d323030266c696e65733d596f752776652b737465707065642b696e746f2b7468652b766f69642e2e2e2546302539462539322538303b6861696c2b66726f6d2b7468652b666f72676f7474656e2b7265616c6d732e2e2e3b77686572652b7468652b64656d6f6e2b417a617a656c2b726569676e7321"/>]
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
