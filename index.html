@@ -11,20 +11,23 @@
       height: 100vh;
       display: flex;
       justify-content: center;
-      align-items: center;
+      align-items: flex-start; /* Align items at the top */
       background: url('https://github.com/user-attachments/assets/54e033fc-a219-4e6d-a4ea-b5251e6d65c1') no-repeat center center fixed;
       background-size: cover;
-      font-family: 'Courier New', Courier, monospace;
+      font-family: 'Bradley Hand', cursive; /* Set the font to 'Bradley Hand' */
       color: white;
     }
 
     .typing-container {
-      font-size: 36px; /* You can change the font size here */
+      font-size: 36px; /* Adjust the font size as needed */
       white-space: nowrap;
       overflow: hidden;
       border-right: 3px solid;
       width: 0;
-      animation: typing 4s steps(40, end), blink-caret 0.75s step-end infinite;
+      animation: blink-caret 0.75s step-end infinite;
+      position: absolute;
+      top: 10%; /* Place text near the top, but not too close */
+      text-align: center;
     }
 
     @keyframes typing {
@@ -37,32 +40,23 @@
       50% { border-color: white; }
     }
 
-    /* Custom animation for cycling through phrases */
-    @keyframes changeText {
-      0% { content: "Your first sentence..."; }
-      25% { content: "Your second sentence..."; }
-      50% { content: "Your third sentence..."; }
-      75% { content: "Your fourth sentence..."; }
-    }
-
-    .typing-text::after {
+    /* Adjust the typing animation for each sentence */
+    .typing-text {
       display: inline-block;
-      content: attr(data-text);
-      animation: changeText 16s infinite;
     }
   </style>
 </head>
 <body>
   <div class="typing-container">
-    <span class="typing-text" data-text="You deserve it..."></span>
+    <span class="typing-text"></span>
   </div>
 
   <script>
     const texts = [
-      "Your first sentence...",
-      "Your second sentence...",
-      "Your third sentence...",
-      "Your fourth sentence..."
+      "You deserve it...",
+      "Keep pushing forward...",
+      "Success is near...",
+      "Believe in yourself..."
     ];
 
     let count = 0;
@@ -73,20 +67,26 @@
 
     function type() {
       if (count === texts.length) {
-        count = 0;
+        count = 0; // Loop back to the first sentence after all have been displayed
       }
       currentText = texts[count];
-      letter = currentText.slice(0, ++index);
+      letter = currentText.slice(0, ++index); // Get letters one by one
 
-      typingText.textContent = letter;
+      typingText.textContent = letter; // Display the text
       if (letter.length === currentText.length) {
-        count++;
-        index = 0;
+        // Wait 5 seconds after the sentence is fully typed before moving to the next
+        setTimeout(() => {
+          count++;
+          index = 0;
+          typingText.textContent = ''; // Clear the current text
+          setTimeout(type, 500); // Small delay before starting to type the next sentence
+        }, 5000); // 5-second delay for each sentence
+      } else {
+        setTimeout(type, 100); // Typing speed (100ms per letter)
       }
-      setTimeout(type, 100);
     }
 
-    type(); // Start typing effect loop
+    type(); // Start the typing effect loop
   </script>
 </body>
 </html>
