@@ -1,5 +1,5 @@
-![IMG_8449](https://github.com/user-attachments/assets/54e033fc-a219-4e6d-a4ea-b5251e6d65c1)
-![212284100-561aa473-3905-4a80-b561-0d28506553ee](https://github.com/user-attachments/assets/75213882-f6a3-4a71-be9b-219d1705895d)
+<img align="center" src="https://github.com/user-attachments/assets/6e177587-06f0-47a0-bd32-dbbf2b5e4d64" width="800" height="386" />
+<img align="center" src="https://github.com/user-attachments/assets/75213882-f6a3-4a71-be9b-219d1705895d" />
 
 <img src="https://camo.githubusercontent.com/9927ff03b556fbf9eab8726c15da88fcfc802a564b3ac9665bf8674579cb9994/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d5065726d616e656e742b4d61726b65722673697a653d35302670617573653d3130303026636f6c6f723d463733363133267643656e7465723d747275652677696474683d31303030266865696768743d323030266c696e65733d596f752776652b737465707065642b696e746f2b7468652b766f69642e2e2e2546302539462539322538303b6861696c2b66726f6d2b7468652b666f72676f7474656e2b7265616c6d732e2e2e3b77686572652b7468652b64656d6f6e2b417a617a656c2b726569676e7321"/>
 
@@ -13,6 +13,12 @@
 ![visitors](https://vbr.nathanchung.dev/badge?page_id=t1noo7.t1noo7&color=red)
 [![GitHub followers](https://img.shields.io/github/followers/t1noo7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
 ![](images/userstats.svg)
+
+<!-- GitHub Star link -->
+<p align="center">
+  <a href="https://stars.github.com/profiles/t1noo7/">
+    <img src="https://github.com/t1noo7/t1noo7/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star"/></a>
+</p>
 
 <h2 align="center">⚒️ Communicate with 🖥️  ⚒️</h2>
 <br/>
