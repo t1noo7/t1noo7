@@ -168,5 +168,6 @@ HTML                     1 repo              ███░░░░░░░░�
 </details>
 
 <div align="center">
-<a href="https://www.buymeacoffee.com/t1lo.choc0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+  <img src="https://github.com/user-attachments/assets/d2b9ba0f-d86e-416e-b651-589c22855e4e" />
+  <a href="https://www.buymeacoffee.com/t1lo.choc0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 </div>
