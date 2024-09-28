@@ -7,11 +7,12 @@
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
 
 <div align="left">
-  <h2>⚒️ Communicate with 🖥️  ⚒️</h2>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,r" />
     <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,java,mysql" /><br>
 </div>
-
+<br/>
+<br/>
+<br/>
 <hr/>
 
 ![](https://github.com/t1noo7/t1noo7/blob/main/generated/overview.svg)
