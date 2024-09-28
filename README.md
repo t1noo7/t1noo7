@@ -5,36 +5,19 @@
 </div>
 
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-#### Find me on:
-[![https://www.linkedin.com/in/duc-toan-963869174/](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/duc-toan-963869174/)
-
-## Github ⚡ Stats ⚡
-![visitors](https://vbr.nathanchung.dev/badge?page_id=t1noo7.t1noo7&color=red)
-[![GitHub followers](https://img.shields.io/github/followers/t1noo7.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/someoneelsescloud?tab=followers)
-![](images/userstats.svg)
-
-<!-- GitHub Star link -->
-<p align="center">
-  <a href="https://stars.github.com/profiles/t1noo7/">
-    <img src="https://github.com/t1noo7/t1noo7/assets/20955511/ca15be3f-d00b-438e-91f6-fb5568c1f632" alt="GitHub Star"/></a>
-</p>
-
-<h2 align="center">⚒️ Communicate with 🖥️  ⚒️</h2>
-<br/>
-<div align="center">
+<div align="left">
+  <h2>⚒️ Communicate with 🖥️  ⚒️</h2>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,r" />
     <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,java,mysql" /><br>
 </div>
 
-<br/>
 <hr/>
 
 ![](https://github.com/t1noo7/t1noo7/blob/main/generated/overview.svg)
 ![](https://github.com/t1noo7/t1noo7/blob/main/generated/languages.svg)
 
-## I Like to dabble in things cloud:
+## Dabble in things cloud:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 [![https://azure.com/](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]([https://azure.com/)
 [![https://github.com/someoneelsescloud](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/someoneelsescloud)
@@ -49,7 +32,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-## When I am not being a NERD I like to:
+## When not being a NERD:
 - Playing football 🦵⚽
 - Watching football league 📺 🏆 ⚽
 - Chilldish Deep 🎶
@@ -71,6 +54,7 @@
 
 <br/>
 
+
 ---
 
 ### :zap: Recent Activity
@@ -85,8 +69,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![visitors](https://vbr.nathanchung.dev/badge?page_id=t1noo7.t1noo7&color=red)
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-8.6%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
