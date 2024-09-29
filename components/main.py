@@ -8,7 +8,7 @@ helper = Helper('I am the Ironman..!!')
 GLOBALS = {
     'FORCE_PUSH': True,
     'DEFAULT_DAYS_INCREMENT': 7,
-    'WRITER_FILE': './components/writer.sh',
+    'WRITER_FILE': 'writer.sh',
 }
 
 class User:
@@ -24,6 +24,7 @@ class User:
         print(f"Using GitHub username: {self._userName}")
         print(f"Using email ID: {self._emailId}")
         print(f"Using profile name: {self._profileName}")
+        print("Writer file path:", os.path.abspath(GLOBALS['WRITER_FILE']))
 
 user = User()
 
