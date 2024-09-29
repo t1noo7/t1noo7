@@ -96,9 +96,9 @@ Join the Word Cloud Board :cloud: :pencil2:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [✧ 𝕊𝕠𝕦𝕣𝕔𝕖 ℂ𝕠𝕕𝕖 ✧](https://github.com/t1noo7/t1noo7/releases/tag/v1.0.0) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
-2. 🗣 Commented on [#5399](https://github.com/mastodon/mastodon/issues/5399#issuecomment-2380399007) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
-3. 🎉 Merged PR [#1](https://github.com/t1noo7/demomongodb/pull/1) in [t1noo7/demomongodb](https://github.com/t1noo7/demomongodb)
+1. ❗ Opened issue [#273](https://github.com/trinib/word-cloud/issues/273) in [trinib/word-cloud](https://github.com/trinib/word-cloud)
+2. ❗ Opened issue [#2](https://github.com/t1noo7/t1noo7/issues/2) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
+3. ❗ Opened issue [#272](https://github.com/trinib/word-cloud/issues/272) in [trinib/word-cloud](https://github.com/trinib/word-cloud)
 4. 💪 Opened PR [#1](https://github.com/t1noo7/demomongodb/pull/1) in [t1noo7/demomongodb](https://github.com/t1noo7/demomongodb)
 <!--END_SECTION:activity-->
 
