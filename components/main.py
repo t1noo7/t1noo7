@@ -126,6 +126,18 @@ for alphabet in INFO['profileName']:
         startingDate += datetime.timedelta(days=GLOBALS['DEFAULT_DAYS_INCREMENT'])
 
 print(f'\nNow go and execute the file {GLOBALS["WRITER_FILE"]} in your repository\nHave Fun :D')
+# Viết các lệnh vào file writer.sh
+with open(GLOBALS['WRITER_FILE'], 'a') as f:
+    f.write('for i in `seq 1 ' + str(INFO['no_of_commits']) + '`; do ' + finalCommand + '; done' + '\n')
+
+# Cấu hình thông tin tác giả cho Git
+os.system('git config --global user.email "your_email@example.com"')  # Thay thế với email thực tế của bạn
+os.system('git config --global user.name "Your Name"')  # Thay thế với tên thực tế của bạn
+
+# Kiểm tra sự tồn tại của file writer.sh
+os.system('ls -la ./components')
+
+# Commit và push file
 os.system('git add ./components/writer.sh')
 os.system('git commit -m "Add writer.sh script"')
-os.system('git push origin main') 
+os.system('git push origin master')  # Hoặc branch tương ứng của bạn
