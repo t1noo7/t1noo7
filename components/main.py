@@ -8,7 +8,7 @@ helper = Helper('I am TinOo..')
 GLOBALS = {
     'FORCE_PUSH': True,
     'DEFAULT_DAYS_INCREMENT': 7,
-    'WRITER_FILE': 'writer.sh',
+    'WRITER_FILE': './components/writer.sh',
 }
 
 class User:
