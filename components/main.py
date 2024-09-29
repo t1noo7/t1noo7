@@ -25,55 +25,6 @@ class User:
         print(f"Using email ID: {self._emailId}")
         print(f"Using profile name: {self._profileName}")
 
-        #self.__set_username__()
-        #self.__set_emailid__()
-        #self.__set_profile_name__()
-
-    def getUserInfo(self, configInfo):
-        command = 'git config {0} user.{1}'
-        configLocations = ['--global', '--local', '--system']
-
-        for location in configLocations:
-            userConfig = command.format(location, configInfo)
-            output = helper.getCommandOutput(userConfig)
-            if len(output):
-                return output.strip()
-        return ''
-
-    def __set_username__(self):
-        print('Enter your github username: ', end='')
-
-        info = self.getUserInfo('name')
-        if len(info):
-            self._userName = info
-            print(f'\n<default: {info}>: ', end='')
-
-        info = input()
-        if len(info.strip()):
-            self._userName = info
-
-    def __set_emailid__(self):
-        print('Enter your registered github emailId: ', end='')
-
-        info = self.getUserInfo('email')
-        if len(info):
-            self._emailId = info
-            print(f'\n<default: {info}>: ', end='')
-
-        info = input()
-        if len(info):
-            self._emailId = info
-
-    def __set_profile_name__(self):
-        print('Enter the name that you want to write on your profile: ', end='')
-
-        info = input()
-        if len(info):
-            self._profileName = info
-        else:
-            print('<InvalidName Error>')
-            self.__set_profile_name__()
-
 user = User()
 
 class Date:
@@ -125,7 +76,7 @@ INFO = {
 
 try:
     config_path = os.path.join(os.path.dirname(__file__), 'config.json')
-    with open('config.json', 'r') as config_file:
+    with open(config_path, 'r') as config_file:
         config = json.load(config_file)
         INFO['no_of_commits'] = config.get('commits_per_day', 5)  # Lấy số lượng commits từ file cấu hình
 except FileNotFoundError:
@@ -134,7 +85,6 @@ except json.JSONDecodeError as e:
     print(f"Error reading 'config.json': {e}. Using default number of commits per day: 5.")
 
 allowedChars = [' ']
-
 startingDate = datetime.datetime(base_date['year'], base_date['month'], base_date['day'])
 
 for alphabet in INFO['profileName']:
@@ -142,11 +92,10 @@ for alphabet in INFO['profileName']:
 
     if (not alphabet.isalnum()) and (alphabet not in allowedChars):
         print('The character {0} is not yet released'.format(str(alphabet)))
-    elif alphabet.isalpha():  # Chỉ thực hiện cho các ký tự chữ cái
+    elif alphabet.isalpha():
         myArray = eval('arr' + alphabet.upper())
         increment = eval('increment' + alphabet.upper())
 
-        # Print the current alphabet for user
         print(alphabet, end='')
         sys.stdout.flush()
 
@@ -164,9 +113,12 @@ for alphabet in INFO['profileName']:
             if GLOBALS['FORCE_PUSH'] == True:
                 finalCommand += '; git push origin master --force'
 
-            # Write the final constructed command in GLOBALS['WRITER_FILE']
-            with open(GLOBALS['WRITER_FILE'], 'a') as f:
-                f.write('for i in `seq 1 ' + str(INFO['no_of_commits']) + '`; do ' + finalCommand + '; done' + '\n')
+            try:
+                with open(GLOBALS['WRITER_FILE'], 'a') as f:
+                    f.write('for i in `seq 1 ' + str(INFO['no_of_commits']) + '`; do ' + finalCommand + '; done' + '\n')
+            except Exception as e:
+                print(f"Error writing to {GLOBALS['WRITER_FILE']}: {e}")
+
         startingDate += datetime.timedelta(days=increment * GLOBALS['DEFAULT_DAYS_INCREMENT'])
     else:
         print(' ', end='')
