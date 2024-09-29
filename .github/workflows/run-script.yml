@@ -1,0 +1,27 @@
+name: Run Shell Script
+
+on:
+  push:
+    branches:
+      - main   # Workflow sẽ chạy khi có push lên nhánh main
+
+jobs:
+  run-script-job:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout Repository
+      uses: actions/checkout@v2   # Clone repository của bạn
+
+    - name: Set up Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'  # Chọn phiên bản Python
+
+    - name: Run run.sh
+      env:
+        USERNAME: "t1noo7"  # Truyền username
+        ID: "117744017"              # Truyền id
+      run: |
+        chmod +x run.sh  # Cấp quyền thực thi cho file run.sh
+        ./run.sh         # Chạy script run.sh
