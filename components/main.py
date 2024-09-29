@@ -3,7 +3,7 @@ from finalIndexing import *
 from helper import Helper
 from subprocess import Popen, PIPE
 
-helper = Helper('I am t1l0o_ch0co..')
+helper = Helper('I am TinOo..')
 
 GLOBALS = {
     'FORCE_PUSH': True,
