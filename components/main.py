@@ -128,4 +128,4 @@ for alphabet in INFO['profileName']:
 print(f'\nNow go and execute the file {GLOBALS["WRITER_FILE"]} in your repository\nHave Fun :D')
 os.system('git add ./components/writer.sh')
 os.system('git commit -m "Add writer.sh script"')
-os.system('git push origin master') 
+os.system('git push origin main') 
