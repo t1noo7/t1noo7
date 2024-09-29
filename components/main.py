@@ -13,12 +13,13 @@ GLOBALS = {
 
 class User:
     def __init__(self):
-        with open('config.json', 'r') as config_file:
+        config_path = os.path.join(os.path.dirname(__file__), 'config.json')
+        with open(config_path, 'r') as config_file:
             config = json.load(config_file)
         
-        self._userName = config.get('GITHUB_USERNAME', 'ironmaniiith')
-        self._emailId = config.get('GITHUB_EMAIL', 'aalekhj2507@gmail.com')
-        self._profileName = config.get('GITHUB_PROFILENAME', 'Aalekh Jain')
+        self._userName = config.get('GITHUB_USERNAME', 't1noo7')
+        self._emailId = config.get('GITHUB_EMAIL', '2121030019@student.humg.edu.vn')
+        self._profileName = config.get('GITHUB_PROFILENAME', 't1l0o_ch0co')
 
         print(f"Using GitHub username: {self._userName}")
         print(f"Using email ID: {self._emailId}")
