@@ -140,4 +140,4 @@ os.system('ls -la ./components')
 # Commit và push file
 os.system('git add ./components/writer.sh')
 os.system('git commit -m "Add writer.sh script"')
-os.system('git push origin master')  # Hoặc branch tương ứng của bạn
+os.system('git push origin main')  # Hoặc branch tương ứng của bạn
