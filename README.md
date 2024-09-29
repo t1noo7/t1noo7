@@ -65,10 +65,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5399](https://github.com/mastodon/mastodon/issues/5399#issuecomment-2380399007) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
-2. 🎉 Merged PR [#1](https://github.com/t1noo7/demomongodb/pull/1) in [t1noo7/demomongodb](https://github.com/t1noo7/demomongodb)
-3. 💪 Opened PR [#1](https://github.com/t1noo7/demomongodb/pull/1) in [t1noo7/demomongodb](https://github.com/t1noo7/demomongodb)
-4. 💪 Opened PR [#1](https://github.com/t1noo7/Assigment_FlutterPopPeepApp_Sem2thYear3th/pull/1) in [t1noo7/Assigment_FlutterPopPeepApp_Sem2thYear3th](https://github.com/t1noo7/Assigment_FlutterPopPeepApp_Sem2thYear3th)
+1. 🚀 Published release [✧ 𝕊𝕠𝕦𝕣𝕔𝕖 ℂ𝕠𝕕𝕖 ✧](https://github.com/t1noo7/t1noo7/releases/tag/v1.0.0) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
+2. 🗣 Commented on [#5399](https://github.com/mastodon/mastodon/issues/5399#issuecomment-2380399007) in [mastodon/mastodon](https://github.com/mastodon/mastodon)
+3. 🎉 Merged PR [#1](https://github.com/t1noo7/demomongodb/pull/1) in [t1noo7/demomongodb](https://github.com/t1noo7/demomongodb)
+4. 💪 Opened PR [#1](https://github.com/t1noo7/demomongodb/pull/1) in [t1noo7/demomongodb](https://github.com/t1noo7/demomongodb)
 <!--END_SECTION:activity-->
 
 ---
