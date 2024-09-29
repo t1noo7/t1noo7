@@ -36,7 +36,7 @@ class Helper:
 			pattern = re.compile(regExp)
 			if pattern.match(text):
 				return True
-		except Exception, e:
+		except Exception as e:
 			pass
 		return False
 
