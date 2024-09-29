@@ -69,18 +69,21 @@
 
 <br/>
 
-<!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
+<!--✏️WORDBOARD--> 
 <h2 align="center">
 Join the Word Cloud Board :cloud: :pencil2:
 
 ### :thought_balloon: <a href="https://github.com/t1noo7/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E"><b>Add your name</b></a> to see the word cloud update in real time :rocket:
 
-:star2: Don't like the arrangement? <a href="https://github.com/t1noo7/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Regenerate it</b></a> :game_die:
+:star2: Don't like the arrangement? <a href="https://github.com/t1noo7/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle"><b>Regenerate it</b></a> :game_die:
 
 <h3 align="center">
 🫠Your Usernames🫠
-</br> 
-<img src="https://raw.githubusercontent.com/t1noo7/word-cloud/main/wordcloud/wordcloud.png" alt="WordCloud" width="100%">
+  
+![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-124-informational?labelColor=003995)
+![Word Cloud Contributors Badge](https://img.shields.io/badge/Cloud%20Contributors-110-blueviolet?labelColor=25004e)
+  
+<img src="wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
