@@ -54,6 +54,19 @@
   <h2>🐍 My Contributions 🐍</h2>
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/t1noo7/t1noo7/output/github-contribution-grid-snake-dark.svg" />
+  
+  <!--👨‍💻STACKOVERFLOW-->
+  <a href="https://stackoverflow.com/users/23150883/t1noo-69?tab=profile"><img src="https://github-readme-stackoverflow-trinibs-projects.vercel.app/?userID=23150883&theme=dark">
+
+<!--📈ACTIVITYGRAPH-->
+![](https://github-readme-activity-graph.vercel.app/graph?username=t1noo7)
+
+<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<p align="center">
+<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
+
+<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
+<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/snake/github-snake-dark.svg" width="100%">
   <br/><br/><br/>
 </div>
 
