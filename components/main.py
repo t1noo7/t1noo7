@@ -80,34 +80,31 @@ class Date:
     def __init__(self):
         self.setDefaultDate()
         print('\nEnter the Base Date in the format (YY-MM-DD).')
-        print('<(For more details or to know how to find Base Date, refer README.md)>', end='')
+        print('<(For more details or to know how to find Base Date, refer README.md)>')
         self.setBaseDate()
 
     def setDefaultDate(self):
         self.now = datetime.datetime.now()
-        self.oldDate = self.now - datetime.timedelta(days=365 - 3 * 7)
-
+        self.oldDate = self.now - datetime.timedelta(days=365-3*7)
         diffSunday = 6 - self.oldDate.weekday()
-        self.defaultDate = self.oldDate + datetime.timedelta(days=diffSunday - 1)
-
+        self.defaultDate = self.oldDate + datetime.timedelta(days=diffSunday-1)
         self.year = self.defaultDate.year
         self.month = self.defaultDate.month
         self.day = self.defaultDate.day
 
     def setBaseDate(self):
-        print(f'\n<default: {self.defaultDate.strftime("%Y-%m-%d")}>: ', end='')
+        base_date_str = os.getenv('BASE_DATE', self.defaultDate.strftime('%Y-%m-%d'))
+        print(f'\n<default: {self.defaultDate.strftime("%Y-%m-%d")}>: {base_date_str}')
 
-        info = input()
-        if len(info):
-            info = info.split('-')
-            try:
-                self.year = int(info[0])
-                self.month = int(info[1])
-                self.day = int(info[2])
-                datetime.datetime(year=self.year, month=self.month, day=self.day)
-            except Exception:
-                print('Please enter a valid Base Date (leave blank for using Default Date)')
-                self.setBaseDate()
+        try:
+            info = base_date_str.split('-')
+            self.year = int(info[0])
+            self.month = int(info[1])
+            self.day = int(info[2])
+            datetime.datetime(year=self.year, month=self.month, day=self.day)
+        except Exception:
+            print('Please enter a valid Base Date (leave blank for using Default Date)')
+            self.setBaseDate()
 
     def getBaseDate(self):
         return {
