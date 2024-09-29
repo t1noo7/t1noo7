@@ -25,7 +25,6 @@ class User:
         print(f"Using GitHub username: {self._userName}")
         print(f"Using email ID: {self._emailId}")
         print(f"Using profile name: {self._profileName}")
-        print(f'Number of commits per day: {commits_per_day}')
 
         #self.__set_username__()
         #self.__set_emailid__()
@@ -127,7 +126,7 @@ INFO = {
 
 allowedChars = [' ']
 
-info = input('Number of commits per day:\n<default: 5>: ')
+info = input('Number of commits per day:\n<default: 5>: ',commits_per_day)
 if len(info):
     try:
         info = int(info)
