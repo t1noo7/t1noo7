@@ -3,7 +3,7 @@ from finalIndexing import *
 from helper import Helper
 from subprocess import Popen, PIPE
 
-helper = Helper('I am the Ironman..!!')
+helper = Helper('I am t1l0o_ch0co..')
 
 GLOBALS = {
     'FORCE_PUSH': True,
@@ -124,6 +124,7 @@ INFO = {
 }
 
 try:
+    config_path = os.path.join(os.path.dirname(__file__), 'config.json')
     with open('config.json', 'r') as config_file:
         config = json.load(config_file)
         INFO['no_of_commits'] = config.get('commits_per_day', 5)  # Lấy số lượng commits từ file cấu hình
@@ -140,11 +141,12 @@ for alphabet in INFO['profileName']:
     time.sleep(0.1)
 
     if (not alphabet.isalnum()) and (alphabet not in allowedChars):
-        print(f'The character {str(alphabet)} is not yet released')
-    elif alphabet != ' ':
+        print('The character {0} is not yet released'.format(str(alphabet)))
+    elif alphabet.isalpha():  # Chỉ thực hiện cho các ký tự chữ cái
         myArray = eval('arr' + alphabet.upper())
         increment = eval('increment' + alphabet.upper())
 
+        # Print the current alphabet for user
         print(alphabet, end='')
         sys.stdout.flush()
 
@@ -152,14 +154,19 @@ for alphabet in INFO['profileName']:
             components = [None] * 3
             components[0] = 'echo ' + str(random.random()) + str(random.random()) + ' > testFile'
             components[1] = 'git add .'
-            components[2] = f'git commit -m "blah blah" --amend --author="{INFO["userName"]} <{INFO["emailId"]}> " --date="{(startingDate + datetime.timedelta(days=i)).strftime("%A %B %d %Y")}"'
+            components[2] = 'git commit -m "blah blah" --amend --author="{0} <{1}> " --date="{2}"'.format(
+                INFO['userName'],
+                INFO['emailId'],
+                (startingDate + datetime.timedelta(days=i)).strftime("%A %B %d %Y")
+            )
             finalCommand = ';'.join(components)
 
-            if GLOBALS['FORCE_PUSH']:
+            if GLOBALS['FORCE_PUSH'] == True:
                 finalCommand += '; git push origin master --force'
 
+            # Write the final constructed command in GLOBALS['WRITER_FILE']
             with open(GLOBALS['WRITER_FILE'], 'a') as f:
-                f.write(f'for i in `seq 1 {INFO["no_of_commits"]}`;do {finalCommand}; done\n')
+                f.write('for i in `seq 1 ' + str(INFO['no_of_commits']) + '`; do ' + finalCommand + '; done' + '\n')
         startingDate += datetime.timedelta(days=increment * GLOBALS['DEFAULT_DAYS_INCREMENT'])
     else:
         print(' ', end='')
