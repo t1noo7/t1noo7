@@ -20,10 +20,12 @@ class User:
         self._userName = config.get('GITHUB_USERNAME', 't1noo7')
         self._emailId = config.get('GITHUB_EMAIL', '2121030019@student.humg.edu.vn')
         self._profileName = config.get('GITHUB_PROFILENAME', 't1l0o_ch0co')
+        commits_per_day = 5
 
         print(f"Using GitHub username: {self._userName}")
         print(f"Using email ID: {self._emailId}")
         print(f"Using profile name: {self._profileName}")
+        print(f'Number of commits per day: {commits_per_day}')
 
         #self.__set_username__()
         #self.__set_emailid__()
