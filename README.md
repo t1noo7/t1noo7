@@ -1,3 +1,7 @@
+<p> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/t1noo7/count.svg" />
+</p>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6e177587-06f0-47a0-bd32-dbbf2b5e4d64" width="800" height="386" />
   <img src="https://github.com/user-attachments/assets/75213882-f6a3-4a71-be9b-219d1705895d" />
@@ -148,7 +152,7 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 ## 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=t1noo7&theme=nord&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=t1noo7&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)]
 
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
@@ -183,4 +187,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 <div align="center">
   <img src="https://github.com/user-attachments/assets/d2b9ba0f-d86e-416e-b651-589c22855e4e" />
   <a href="https://www.buymeacoffee.com/t1lo.choc0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+  <a href="https://ko-fi.com/t1loo_ch0co"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" width="150" height="auto"/> </a>
 </div>
