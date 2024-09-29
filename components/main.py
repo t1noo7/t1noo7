@@ -1,4 +1,4 @@
-import datetime, random, time, os, sys
+import datetime, random, time, os, sys, json
 from finalIndexing import *
 from helper import Helper
 from subprocess import Popen, PIPE
@@ -13,13 +13,20 @@ GLOBALS = {
 
 class User:
     def __init__(self):
-        self._userName = 'ironmaniiith'
-        self._emailId = 'aalekhj2507@gmail.com'
-        self._profileName = 'Aalekh Jain'
+        with open('config.json', 'r') as config_file:
+            config = json.load(config_file)
+        
+        self._userName = config.get('GITHUB_USERNAME', 'ironmaniiith')
+        self._emailId = config.get('GITHUB_EMAIL', 'aalekhj2507@gmail.com')
+        self._profileName = config.get('GITHUB_PROFILENAME', 'Aalekh Jain')
 
-        self.__set_username__()
-        self.__set_emailid__()
-        self.__set_profile_name__()
+        print(f"Using GitHub username: {self._userName}")
+        print(f"Using email ID: {self._emailId}")
+        print(f"Using profile name: {self._profileName}")
+
+        #self.__set_username__()
+        #self.__set_emailid__()
+        #self.__set_profile_name__()
 
     def getUserInfo(self, configInfo):
         command = 'git config {0} user.{1}'
