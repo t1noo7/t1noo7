@@ -183,11 +183,11 @@ HTML                     1 repo              ██░░░░░░░░░�
 
 ## 🏆 GitHub Trophies
 
+![](https://github-profile-trophy.vercel.app/?username=t1noo7&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
+
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
-
-[](https://github-profile-trophy.vercel.app/?username=t1noo7&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
 
 <details> 
   <summary><h2>🏷️ Holopin Badges</h2></summary>
