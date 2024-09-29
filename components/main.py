@@ -20,7 +20,6 @@ class User:
         self._userName = config.get('GITHUB_USERNAME', 't1noo7')
         self._emailId = config.get('GITHUB_EMAIL', '2121030019@student.humg.edu.vn')
         self._profileName = config.get('GITHUB_PROFILENAME', 't1l0o_ch0co')
-        commits_per_day = 5
 
         print(f"Using GitHub username: {self._userName}")
         print(f"Using email ID: {self._emailId}")
@@ -126,7 +125,8 @@ INFO = {
 
 allowedChars = [' ']
 
-info = input('Number of commits per day:\n<default: 5>: ',commits_per_day)
+commits_per_day = 5
+info = input('Number of commits per day:\n<default: 5>: ')
 if len(info):
     try:
         info = int(info)
