@@ -123,16 +123,16 @@ INFO = {
     'no_of_commits': 5,
 }
 
-allowedChars = [' ']
+try:
+    with open('config.json', 'r') as config_file:
+        config = json.load(config_file)
+        INFO['no_of_commits'] = config.get('commits_per_day', 5)  # Lấy số lượng commits từ file cấu hình
+except FileNotFoundError:
+    print("Warning: 'config.json' not found. Using default number of commits per day: 5.")
+except json.JSONDecodeError as e:
+    print(f"Error reading 'config.json': {e}. Using default number of commits per day: 5.")
 
-commits_per_day = 5
-info = input('Number of commits per day:\n<default: 5>: ')
-if len(info):
-    try:
-        info = int(info)
-        INFO['no_of_commits'] = info
-    except Exception:
-        pass
+allowedChars = [' ']
 
 startingDate = datetime.datetime(base_date['year'], base_date['month'], base_date['day'])
 
