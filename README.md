@@ -102,10 +102,10 @@ Join the Word Cloud Board :cloud: :pencil2:
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#273](https://github.com/trinib/word-cloud/issues/273) in [trinib/word-cloud](https://github.com/trinib/word-cloud)
-2. ❗ Opened issue [#2](https://github.com/t1noo7/t1noo7/issues/2) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
-3. ❗ Opened issue [#272](https://github.com/trinib/word-cloud/issues/272) in [trinib/word-cloud](https://github.com/trinib/word-cloud)
-4. 💪 Opened PR [#1](https://github.com/t1noo7/demomongodb/pull/1) in [t1noo7/demomongodb](https://github.com/t1noo7/demomongodb)
+1. ❗ Opened issue [#3](https://github.com/t1noo7/t1noo7/issues/3) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
+2. ❗ Opened issue [#273](https://github.com/trinib/word-cloud/issues/273) in [trinib/word-cloud](https://github.com/trinib/word-cloud)
+3. ❗ Opened issue [#2](https://github.com/t1noo7/t1noo7/issues/2) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
+4. ❗ Opened issue [#272](https://github.com/trinib/word-cloud/issues/272) in [trinib/word-cloud](https://github.com/trinib/word-cloud)
 <!--END_SECTION:activity-->
 
 ---
