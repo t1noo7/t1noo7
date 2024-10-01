@@ -39,7 +39,7 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
-## ༼ つ ◕_◕ ༽つ 🍩
+## ༼ つ ◕_◕ ༽つ 🍩 <img src="images/213844263-a8897a51-32f4-4b3b-b5c2-e1528b89f6f3.png" width="50px">
 - Playing football 🦵⚽
 - Watching football league 📺 🏆 ⚽
 - Chilldish Deep 🎶
