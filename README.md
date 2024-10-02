@@ -12,7 +12,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 
 <div align="center">
 
-## 📛Github Usernames📛
+## Global Boarding Pass 🫠
 
 ![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-2-informational?labelColor=003995)
 ![Word Cloud Contributors Badge](https://img.shields.io/badge/Cloud%20Contributors-2-blueviolet?labelColor=25004e)
