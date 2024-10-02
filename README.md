@@ -64,20 +64,20 @@
 </p>
 
 <!--📈ACTIVITYGRAPH-->
-![](https://github-readme-activity-graph.vercel.app/graph?username=t1noo7)
+![](https://github-readme-activity-graph.vercel.app/graph?username=t1noo7&theme=dracula)
 
-<!--🐍💬SNAKETITLE / 🌐WEBSITE: https://textanim.com/ -->
+<!--🐍💬SNAKETITLE-->
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 
-<!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk & https://github.com/ironmaniiith/Github-profile-name-writer -->
+<!--🐍📈SNAKEGRAPH-->
 <img src="https://raw.githubusercontent.com/t1noo7/t1noo7/output/github-contribution-grid-snake-dark.svg" />
   <br/><br/><br/>
 </div>
 
 <br/>
 
-<!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
+<!--✏️WORDBOARD--> 
 <h2 align="center">
 Join the Word Cloud Board :cloud: :pencil2:
 
@@ -111,11 +111,11 @@ Join the Word Cloud Board :cloud: :pencil2:
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-6%20hrs%205%20mins-red)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-red)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.3%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-10.3%20thousand%20lines%20of%20code-red)
 
 **🐱 My GitHub Data** 
 
