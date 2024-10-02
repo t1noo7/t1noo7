@@ -1,11 +1,11 @@
 # require_relative "./cloud_types"
 
 class ReadmeGenerator
-  WORD_CLOUD_URL = 'https://raw.githubusercontent.com/trinib/word-cloud/main/wordcloud/wordcloud.png'
+  WORD_CLOUD_URL = 'wordcloud/wordcloud.png'
   ADDWORD = 'add'
   SHUFFLECLOUD = 'shuffle'
   INITIAL_COUNT = 0
-  USER = "trinib"
+  USER = "t1noo7"
 
   def initialize(octokit:)
     @octokit = octokit
@@ -30,26 +30,23 @@ class ReadmeGenerator
     end
 
     markdown = <<~HTML
-<h3>
-  
-[<b>▷▻⊳ 𝐁𝐚𝐜𝐤 𝐓𝐨 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 ⊲◅◁</b>](https://github.com/trinib/trinib)    
-#
-<!--✏️WORDBOARD / 🌐WEBSITE: https://github.com/JessicaLim8/JessicaLim8 --> 
+    
+<!--✏️WORDBOARD--> 
 <h2 align="center">
-Join the Word Cloud Board :cloud: :pencil2:
+Join the Global Boarding Pass ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-### :thought_balloon: [Add your name](https://github.com/trinib/word-cloud/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to see the word cloud update in real time :rocket:
+### :thought_balloon: [Add your name](https://github.com/t1noo7/t1noo7/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to see your teleport in real time 𖦹.𖥔 ݁ ˖
 
-:star2: Don't like the arrangement? [Regenerate it](https://github.com/trinib/word-cloud/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
+:star2: Don't like the arrangement? [Regenerate it](https://github.com/t1noo7/t1noo7/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
 
 <div align="center">
 
-## #{CloudTypes::CLOUDPROMPTS.last}
+## Global Boarding Pass 🖍️🫠
 
-![Word Cloud Words Badge](https://img.shields.io/badge/Words%20in%20this%20Cloud-#{current_words_added}-informational?labelColor=003995)
-![Word Cloud Contributors Badge](https://img.shields.io/badge/Cloud%20Contributors-#{current_contributors.size}-blueviolet?labelColor=25004e)
+![Words](https://img.shields.io/badge/Words%20in%20this%20Cloud-1-informational?labelColor=003995)
+![Contributors](https://img.shields.io/badge/Cloud%20Contributors-1-blueviolet?labelColor=25004e)
 
-<img src="#{WORD_CLOUD_URL}" alt="WordCloud" width="100%">
+<img src="wordcloud/wordcloud.png" alt="WordCloud" width="100%">
 </div>
 
    HTML
@@ -70,7 +67,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 
   def previous_cloud_url
     url_end = CloudTypes::CLOUDPROMPTS[-2].gsub(' ', '-').gsub(':', '').gsub('?', '').downcase
-    "https://github.com/trinib/word-cloud/blob/main/previous_clouds/previous_clouds.md##{url_end}"
+    "previous_clouds/previous_clouds.md##{url_end}"
   end
 
   attr_reader :octokit
