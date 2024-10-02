@@ -230,4 +230,3 @@ Dart                     1 repo              ██░░░░░░░░░�
   <a href="https://www.buymeacoffee.com/t1lo.choc0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
   <a href="https://ko-fi.com/t1loo_ch0co"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" width="150" height="auto"/> </a>
 </div>
-![image](https://github.com/user-attachments/assets/66e79f28-81f5-4d83-b662-0b16302a7218)
