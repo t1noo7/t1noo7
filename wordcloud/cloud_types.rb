@@ -4,6 +4,6 @@ module CloudTypes
   ]
 
   CLOUDPROMPTS = [
-    "📛Github Usernames📛"
+    "Global Boarding Pass 🖍️🫠"
   ]
 end
