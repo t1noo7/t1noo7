@@ -88,10 +88,11 @@ Join the Global Boarding Pass ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 :star2: Don't like the arrangement? [Regenerate it](https://github.com/t1noo7/globalboardingpass/issues/new?template=shufflecloud.md&title=globalboardingpass%7Cshuffle) :game_die:
 
 <div align="center">
-
+<h3>
 Global Boarding Pass 🖍️🫠
 </br> 
 <img src="https://raw.githubusercontent.com/t1noo7/globalboardingpass/main/globalboardingpass/wordcloud.png" alt="GlobalBoardingPass" width="100%">
+</div>
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
