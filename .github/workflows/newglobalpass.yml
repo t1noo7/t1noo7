@@ -26,7 +26,7 @@ jobs:
     - name: Install dependencies
       run: |
         gem install octokit -N --silent
-        pip install wordcloud
+        pip install globalboardingpass
 
     - name: New Word Cloud Generation
       env:
