@@ -1,4 +1,4 @@
-name: "wordcloud"
+name: "Global Boarding Pass"
 
 on:
   pull_request:
