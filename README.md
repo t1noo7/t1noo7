@@ -79,7 +79,7 @@
 
 <!--✏️WORDBOARD--> 
 <h2 align="center">
-Join the Global Boarding Pass ૮ ˶ᵔ ᵕ ᵔ˶ ა
+Join the Global Boarding Pass ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
 ### :thought_balloon: [Add your name](https://github.com/t1noo7/globalboardingpass/issues/new?template=addword.md&title=globalboardingpass%7Cadd%7C%3CINSERT-WORD%3E) to see your teleport in real time 𖦹.𖥔 ݁ ˖
 
