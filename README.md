@@ -89,15 +89,9 @@ Join the Global Boarding Pass ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
 <div align="center">
 
-## #{CloudTypes::CLOUDPROMPTS.last}
-
-![Passes Badge](https://img.shields.io/badge/Boarding%20Passes%20in%20this%20Global-#{current_words_added}-informational?labelColor=003995)
-![Contributors Badge](https://img.shields.io/badge/Cloud%20Contributors-#{current_contributors.size}-blueviolet?labelColor=25004e)
-
-<img src="#{WORD_CLOUD_URL}" alt="GlobalBoardingPass" width="100%">
-
-[![Github Badge](https://img.shields.io/badge/-@username-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/username)](https://github.com/username)
-</div>
+Global Boarding Pass 🖍️🫠
+</br> 
+<img src="https://raw.githubusercontent.com/t1noo7/globalboardingpass/main/globalboardingpass/wordcloud.png" alt="GlobalBoardingPass" width="100%">
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
