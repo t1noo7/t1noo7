@@ -77,7 +77,9 @@
 
 <br/>
 
-<!--✏️WORDBOARD--> 
+<h3>
+  
+<!--✏️WORDBOARD --> 
 <h2 align="center">
 Join the Global Boarding Pass ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
@@ -87,12 +89,14 @@ Join the Global Boarding Pass ૮₍ ˶ᵔ ᵕ ᵔ˶ ₎ა
 
 <div align="center">
 
-## Global Boarding Pass 🖍️🫠
+## #{CloudTypes::CLOUDPROMPTS.last}
 
-![Words](https://img.shields.io/badge/Words%20in%20this%20Cloud-1-informational?labelColor=003995)
-![Contributors](https://img.shields.io/badge/Cloud%20Contributors-1-blueviolet?labelColor=25004e)
+![Passes Badge](https://img.shields.io/badge/Boarding%20Passes%20in%20this%20Global-#{current_words_added}-informational?labelColor=003995)
+![Contributors Badge](https://img.shields.io/badge/Cloud%20Contributors-#{current_contributors.size}-blueviolet?labelColor=25004e)
 
-<img src="https://raw.githubusercontent.com/t1noo7/globalboardingpass/main/globalboardingpass/wordcloud.png" alt="GlobalBoardingPass" width="100%">
+<img src="#{WORD_CLOUD_URL}" alt="GlobalBoardingPass" width="100%">
+
+[![Github Badge](https://img.shields.io/badge/-@username-24292e?style=flat&logo=Github&logoColor=white&link=https://github.com/username)](https://github.com/username)
 </div>
 
 <!--📏LINE-->
