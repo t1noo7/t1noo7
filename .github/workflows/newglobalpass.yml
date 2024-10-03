@@ -7,7 +7,7 @@ on:
 jobs:
   newCloud:
     runs-on: ubuntu-latest
-    if: startsWith(github.event.pull_request.title, 'New Word Cloud')
+    if: startsWith(github.event.pull_request.title, 'New Pass')
     steps:
 
     - name: Checkout
@@ -36,7 +36,7 @@ jobs:
         EVENT_PR_TITLE: ${{ github.event.pull_request.title }}
       run: |
         ruby <<- EORUBY
-          require './wordcloud/runner'
+          require './global-boarding-pass/runner'
           
           Runner.new(
             github_token: '${{ secrets.GITHUB_TOKEN }}',
