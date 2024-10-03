@@ -81,9 +81,9 @@
 <h2 align="center">
 Join the Global Boarding Pass ૮ ˶ᵔ ᵕ ᵔ˶ ა
 
-### :thought_balloon: [Add your name](https://github.com/t1noo7/t1noo7/issues/new?template=addword.md&title=wordcloud%7Cadd%7C%3CINSERT-WORD%3E) to see your teleport in real time 𖦹.𖥔 ݁ ˖
+### :thought_balloon: [Add your name](https://github.com/t1noo7/Global-boarding-pass/issues/new?template=addword.md&title=globalpass%7Cadd%7C%3CINSERT-WORD%3E) to see your teleport in real time 𖦹.𖥔 ݁ ˖
 
-:star2: Don't like the arrangement? [Regenerate it](https://github.com/t1noo7/t1noo7/issues/new?template=shufflecloud.md&title=wordcloud%7Cshuffle) :game_die:
+:star2: Don't like the arrangement? [Regenerate it](https://github.com/t1noo7/Global-boarding-pass/issues/new?template=shufflecloud.md&title=globalpass%7Cshuffle) :game_die:
 
 <div align="center">
 
