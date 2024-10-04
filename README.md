@@ -194,7 +194,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
-      <img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/6ebecd86c1f74f0775c8f1d6dd476049.gif" height="1500px"/>
+      <img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/rainbow-led.gif" height="1500px"/>
     </td>
   </tr>
   </table>
