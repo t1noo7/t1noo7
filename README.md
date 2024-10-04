@@ -81,6 +81,10 @@
   <br/><br/><br/>
 </div>
 
+<!--🌯TERMINALSTATS💻-->
+<p align="center">
+<img src="https://raw.githubusercontent.com/t1noo7/terminal-stats/master/github_stats.svg">
+
 <!--💬🃏QUOTE-->
 <p align="center">
 
