@@ -107,7 +107,7 @@ Global Boarding Pass 🖍️🫠
 <table border:none>
   <tr>
     <td align="left"> 
-### :zap: Recent Activity
+      <h3>:zap: Recent Activity</h3>
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#8](https://github.com/t1noo7/t1noo7/pull/8) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
