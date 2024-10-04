@@ -110,10 +110,10 @@ Global Boarding Pass 🖍️🫠
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#25](https://github.com/t1noo7/globalboardingpass/issues/25) in [t1noo7/globalboardingpass](https://github.com/t1noo7/globalboardingpass)
-2. ❗ Opened issue [#7](https://github.com/t1noo7/t1noo7/issues/7) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
-3. ❗ Opened issue [#275](https://github.com/trinib/word-cloud/issues/275) in [trinib/word-cloud](https://github.com/trinib/word-cloud)
-4. ❗ Opened issue [#274](https://github.com/trinib/word-cloud/issues/274) in [trinib/word-cloud](https://github.com/trinib/word-cloud)
+1. 🎉 Merged PR [#8](https://github.com/t1noo7/t1noo7/pull/8) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
+2. 🎉 Merged PR [#9](https://github.com/t1noo7/t1noo7/pull/9) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
+3. 🎉 Merged PR [#10](https://github.com/t1noo7/t1noo7/pull/10) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
+4. 🎉 Merged PR [#11](https://github.com/t1noo7/t1noo7/pull/11) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
 <!--END_SECTION:activity-->
 
 ---
