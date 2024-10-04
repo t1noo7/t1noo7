@@ -57,6 +57,8 @@
   <!--👨‍💻STACKOVERFLOW-->
   <a href="https://stackoverflow.com/users/23150883/t1noo-69?tab=profile"><img src="https://github-readme-stackoverflow-trinibs-projects.vercel.app/?userID=23150883&theme=dark">
 
+<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/Trolling net thru your home.gif" width="100%">
+
   <!--🃏TROLLING -->
 <p align="center">
 <img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="600px"/>
@@ -102,6 +104,9 @@ Global Boarding Pass 🖍️🫠
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 <p align="center">
 
+<table border:none>
+  <tr>
+    <td align="left"> 
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
@@ -187,6 +192,12 @@ Dart                     1 repo              ██░░░░░░░░░�
 
  Last Updated on 03/10/2024 12:33:49 UTC
 <!--END_SECTION:waka-->
+</td>
+<td align="right">
+      <img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/6ebecd86c1f74f0775c8f1d6dd476049.gif" height="1500px"/>
+    </td>
+  </tr>
+  </table>
 
 <br/>
 
