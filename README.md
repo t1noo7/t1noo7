@@ -57,6 +57,10 @@
   <!--👨‍💻STACKOVERFLOW-->
   <a href="https://stackoverflow.com/users/23150883/t1noo-69?tab=profile"><img src="https://github-readme-stackoverflow-trinibs-projects.vercel.app/?userID=23150883&theme=dark">
 
+  <!--🃏TROLLING -->
+<p align="center">
+<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="600px"/>
+
   <!-- GitHub Star link -->
 <p align="center">
   <a href="https://stars.github.com/profiles/t1noo7/">
