@@ -81,6 +81,13 @@
   <br/><br/><br/>
 </div>
 
+<!--💬🃏QUOTE-->
+<p align="center">
+
+<b>FISHING EVERY SINGLEDAY （。ㅅ 。）</b>
+<!--STARTS_HERE_QUOTE_README-->
+<!--ENDS_HERE_QUOTE_README-->
+
 <br/>
 
 <h3>
