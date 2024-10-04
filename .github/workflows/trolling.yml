@@ -1,4 +1,4 @@
-name: Update Quote Readme
+name: Trolling sub Running
 
 on:
   workflow_dispatch:
@@ -13,5 +13,5 @@ jobs:
     steps:
       - uses: siddharth2016/quote-readme@main
         with:
-          COMMIT_MESSAGE: 🤓Github action updated readme with a ℱỮŇ ℱΔĆŦ🤓 # default - Update with quote-readme
-          OPTION: funfact           # default - both, can be one of (quote, funfact, both), if 'both' then will display either a quote or a fact
+          COMMIT_MESSAGE: ⚡ ( ＾◡＾)っ🍑 # default - Update with quote-readme
+          OPTION: both           # default - both, can be one of (quote, funfact, both), if 'both' then will display either a quote or a fact
