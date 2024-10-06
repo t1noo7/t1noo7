@@ -61,7 +61,7 @@
 
   <!--🃏TROLLING -->
 <p align="center">
-<img src="https://subreddit-memes-trinibs-projects.vercel.app/api/meme" width="600px"/>
+<img src="https://t1noo7-meme-daily.vercel.app/api/meme" width="350px"/>
 
   <!-- GitHub Star link -->
 <p align="center">
@@ -86,14 +86,33 @@
 <img src="https://raw.githubusercontent.com/t1noo7/terminal-stats/master/github_stats.svg">
 
 <!--💬🃏QUOTE-->
+## FISHING EVERY SINGLEDAY （。ㅅ 。）
 <p align="center">
 
-<b>FISHING EVERY SINGLEDAY （。ㅅ 。）</b>
-<!--STARTS_HERE_QUOTE_README-->
-<i>❝“We have to stop optimizing for programmers and start optimizing for users.”— Jeff Atwood   ❞</i>
-<!--ENDS_HERE_QUOTE_README-->
+<div align="center">
+  <!--STARTS_HERE_QUOTE_README-->
+  <i>❝“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   ❞</i>
+  <!--ENDS_HERE_QUOTE_README-->
 
+  <br/>
+  <br/>
+  <br/>
+  
+  [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&border=true&theme=catppuccin_mocha)](https://github.com/piyushsuthar/github-readme-quotes)
+  
+  [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=radical&font=mountains_of_christmas)](https://github.com/cheehwatang/github-readme-daily-quotes)
+
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=shades-of-purple&font=Redressed&animation=grow_out_in)
+
+  <!-- HTML -->
+  <img src="https://readme-jokes.vercel.app/api?theme=nightowl&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
+  
+</div>
 <br/>
+
+<!--📏LINE-->
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<p align="center">
 
 <h3>
   
@@ -255,5 +274,9 @@ Dart                     1 repo              ██░░░░░░░░░�
   <a href="https://www.buymeacoffee.com/t1lo.choc0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
   <a href="https://ko-fi.com/t1loo_ch0co"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" width="150" height="auto"/> </a>
 
+  <br/>
+  <br/>
+  <br/>
+  
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=213xgo6vbnp7mq5guuxkhyzaa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=f042c1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
