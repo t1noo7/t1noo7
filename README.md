@@ -254,4 +254,6 @@ Dart                     1 repo              ██░░░░░░░░░�
   <img src="https://github.com/user-attachments/assets/d2b9ba0f-d86e-416e-b651-589c22855e4e" />
   <a href="https://www.buymeacoffee.com/t1lo.choc0" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
   <a href="https://ko-fi.com/t1loo_ch0co"> <img src="https://media3.giphy.com/media/ZEB6yFbLnhyQf7g3hn/giphy.gif" alt="side Gif" width="150" height="auto"/> </a>
+
+  [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=213xgo6vbnp7mq5guuxkhyzaa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=f042c1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
