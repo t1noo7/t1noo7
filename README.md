@@ -102,7 +102,7 @@
   
   [![Github Readme Daily Quotes](https://readme-daily-quotes.vercel.app/api?theme=radical&font=mountains_of_christmas)](https://github.com/cheehwatang/github-readme-daily-quotes)
 
-  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=shades-of-purple&font=Redressed&animation=grow_out_in)
+  ![Quote](https://github-readme-quotes-bay.vercel.app/quote?theme=shades-of-purple&font=Redressed&animation=grow_out_in&layout=churchill)
 
   <!-- HTML -->
   <img src="https://readme-jokes.vercel.app/api?theme=nightowl&qColor=%23944bcc&aColor=%23bbdb51" alt="Jokes Card" />
