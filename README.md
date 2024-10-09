@@ -111,7 +111,7 @@
 <br/>
 
 <!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/d20acf3b5fa760bf6ccd51da05595db5.gif" height="20" width="100%"/>
 <p align="center">
 
 <h3>
