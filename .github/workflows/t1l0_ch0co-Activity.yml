@@ -1,7 +1,7 @@
-name: Update README
+name: ⚡ Update mahflow
 on:
   schedule:
-    - cron: "*/30 * * * *"
+    - cron: "* * * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -11,7 +11,7 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v2
       - uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
