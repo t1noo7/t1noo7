@@ -1,0 +1,13 @@
+settings:
+  username: "t1noo7"
+  commit_msg: "⚡٩(̾●̮̮̃̾•̃̾)۶🔥 ๓𝔸𝒽 ғ𝓛Ⓞ𝓌 𝐔ρ𝔡ａ𝓽ᵉ♧ 😡🔥٩(̾●̮̮̃̾•̃̾)۶⚡"
+  max_lines: 0
+  readme_file: "README.md"
+  disabled_events: [event1, event2, event3]
+  url_text: "{REPO}{ID}"
+  date:
+    timezone: "GMT+07:00"
+    text: "<i>Last refresh</i> : <b>{DATE}</b>"
+    format: "dddd, mmmm dS, yyyy, h:MM:ss TT"
+  commit_name: "Kakarotto-bot"
+  commit_email: "179298795+Kakarotto-bot@users.noreply.github.com"
