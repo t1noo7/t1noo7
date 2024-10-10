@@ -140,12 +140,12 @@ Global Boarding Pass 🖍️🫠
     <td align="left"> 
       <h3>:zap: Recent Activity</h3>
 
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/t1noo7/t1noo7/pull/8) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
-2. 🎉 Merged PR [#9](https://github.com/t1noo7/t1noo7/pull/9) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
-3. 🎉 Merged PR [#10](https://github.com/t1noo7/t1noo7/pull/10) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
-4. 🎉 Merged PR [#11](https://github.com/t1noo7/t1noo7/pull/11) in [t1noo7/t1noo7](https://github.com/t1noo7/t1noo7)
-<!--END_SECTION:activity-->
+<!--⚽️ACTIVITY-->
+<!--RECENT_ACTIVITY:start-->
+<!--RECENT_ACTIVITY:end-->
+<p align="right">
+<!--RECENT_ACTIVITY:last_update-->
+<!--RECENT_ACTIVITY:last_update_end-->
 
 ---
 
