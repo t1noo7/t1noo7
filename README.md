@@ -145,7 +145,7 @@ Global Boarding Pass 🖍️🫠
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Friday, October 11th, 2024, 2:33:36 AM</b>
+<i>Last refresh</i> : <b>Friday, October 11th, 2024, 2:07:14 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -234,6 +234,13 @@ Dart                     1 repo              ██░░░░░░░░░�
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=t1noo7&theme=flat&no-bg=true&no-frame=true&column=8&margin-w=15&margin-h=15&rank=SSS,SS,S,AAA,AA,A,B,C,SECRET)
+
+<br><p align="center">
+<a href="https://github.com/t1noo7/t1noo7/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=t1noo7/t1noo7&max=10&anon=true" />
+</a>
+
+🅸🅵 🆈🅾🆄 🆁🅴🅰🅲🅷🅴🅳 🅾🆄🆃 🅷🅴🆁🅴 ((っ◔◡◔)っ ♥ Congrat ♥ 🎉🎈🎊) 
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
