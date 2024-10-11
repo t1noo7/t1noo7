@@ -22,9 +22,13 @@
 <br/>
 <br/>
 <br/>
-<img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
+<img align="right" src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/bullseye.gif" width="auto" height="350" />
 
+## Tools🛠️ & Language🤖
 <div align="left">
+  <br />
+  <br />
+  <br />
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,r" />
     <img src="https://skillicons.dev/icons?i=python,javascript,firebase,mongodb,c,java,mysql" /><br>
 </div>
@@ -158,7 +162,7 @@ Global Boarding Pass 🖍️🫠
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i> : <b>Friday, October 11th, 2024, 10:49:51 AM</b>
+<i>Last refresh</i> : <b>Friday, October 11th, 2024, 9:55:03 AM</b>
 <!--RECENT_ACTIVITY:last_update_end-->
 
 ---
@@ -301,5 +305,10 @@ Dart                     1 repo              ██░░░░░░░░░�
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=213xgo6vbnp7mq5guuxkhyzaa&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=true&bar_color=f042c1&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 </div>
 
-<p align="left">
-<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/butter.gif" width="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/spider-insect.gif" width="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/spider-creepy-crawler.gif" width="40">
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/footer.svg" width="100%">
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/butter.gif" width="120">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/spider-insect.gif" width="40">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/spider-creepy-crawler.gif" width="40">
+
+<img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/water.svg" width="100%">
