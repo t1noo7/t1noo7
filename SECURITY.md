@@ -19,5 +19,5 @@
 !                |           o|   ''''   |   \__/   !
 !                |            |          |          !
 !                                                   !
-!                  "DON'T CROSS ME... !"            !
+!           "DON'T DO WTF U WANNA CROSS ME... !"    !
 ```
