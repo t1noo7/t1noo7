@@ -5,9 +5,23 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/6e177587-06f0-47a0-bd32-dbbf2b5e4d64" width="800" height="386" />
   <img src="https://github.com/user-attachments/assets/75213882-f6a3-4a71-be9b-219d1705895d" />
+  
   <img src="https://camo.githubusercontent.com/9927ff03b556fbf9eab8726c15da88fcfc802a564b3ac9665bf8674579cb9994/68747470733a2f2f726561646d652d747970696e672d7376672e6865726f6b756170702e636f6d3f666f6e743d5065726d616e656e742b4d61726b65722673697a653d35302670617573653d3130303026636f6c6f723d463733363133267643656e7465723d747275652677696474683d31303030266865696768743d323030266c696e65733d596f752776652b737465707065642b696e746f2b7468652b766f69642e2e2e2546302539462539322538303b6861696c2b66726f6d2b7468652b666f72676f7474656e2b7265616c6d732e2e2e3b77686572652b7468652b64656d6f6e2b417a617a656c2b726569676e7321"/>
 </div>
 
+<h4 align="left">
+</h4>
+ 
+╔═
+  &nbsp;&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/t1noo7/t1noo7/main/images/banner-dark.gif" width="100%" height="500px">
+<h4>
+<h4 align="left">  
+ 
+╚═════ &nbsp;𐌕𐋏𐌄 [𐌽𐌆𐌾𐋏𐌕𐌑𐌀𐍂𐌄🖤 ☽](https://github.com/settings/appearance#gh-dark-mode-only)[𐌃𐌀𐍅𐌑𐌀𐍂𐌄🤍 ☀︎](https://github.com/settings/appearance#gh-light-mode-only) 𐌾𐍈𐠨𐌄𐍂𐌆𐌽𐌾 𓈒𓈒𓈒
+
+<br/>
+<br/>
+<br/>
 <img align="right" src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" height="220" />
 
 <div align="left">
@@ -137,8 +151,7 @@ Global Boarding Pass 🖍️🫠
 
 <table border:none>
   <tr>
-    <td align="left"> 
-      <h3>:zap: Recent Activity</h3>
+    <td align="left">
 
 <!--⚽️ACTIVITY-->
 <!--RECENT_ACTIVITY:start-->
@@ -240,7 +253,7 @@ Dart                     1 repo              ██░░░░░░░░░�
   <img src="https://contrib.rocks/image?repo=t1noo7/t1noo7&max=10&anon=true" />
 </a>
 
-🅸🅵 🆈🅾🆄 🆁🅴🅰🅲🅷🅴🅳 🅾🆄🆃 🅷🅴🆁🅴 ((っ◔◡◔)っ ♥ Congrat ♥ 🎉🎈🎊) 
+🅸🅵 🆈🅾🆄 🆁🅴🅰🅲🅷🅴🅳 🅾🆄🆃 🅷🅴🆁🅴 ((っ◔◡◔)っ ♥ ⒸⓄⓃⒼⓇⒶⓉⓈ ♥ 🎉🎈🎊) 
 
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
