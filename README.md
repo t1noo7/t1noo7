@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝The first electronic computer ENIAC weighed more than 27 tons and took up 1800 square feet.❞</i>
+<i>❝Tandy TRS-80 Model I computer radiated so much interference that many games were designed so that an AM radio next to the computer could be used to provide sounds.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
