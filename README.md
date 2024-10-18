@@ -168,9 +168,9 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-19%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-24-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-40.3%20thousand%20lines%20of%20code-blue)
 
@@ -178,7 +178,7 @@ Global Boarding Pass 🖍️🫠
 
 > 📦 171.4 kB Used in GitHub's Storage 
  > 
-> 🏆 1,128 Contributions in the Year 2024
+> 🏆 1,129 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -213,17 +213,17 @@ Sunday                   165 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C#                       7 hrs 4 mins        █████████████░░░░░░░░░░░░   53.95 % 
-CSHTML                   4 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   34.16 % 
-HTML                     55 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
-XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-Python                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+C#                       8 hrs 56 mins       ████████████████░░░░░░░░░   63.43 % 
+CSHTML                   4 hrs 28 mins       ████████░░░░░░░░░░░░░░░░░   31.72 % 
+XML                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Python                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+HTML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
 
 🔥 Editors: 
-VS Code                  13 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  14 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      13 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      14 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -239,7 +239,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2024 12:34:08 UTC
+ Last Updated on 18/10/2024 12:33:45 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
