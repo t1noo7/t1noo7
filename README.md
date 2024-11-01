@@ -168,17 +168,15 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-69%20hrs%203%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-70%20hrs%209%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-517.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 176.5 kB Used in GitHub's Storage 
- > 
-> 🏆 1,133 Contributions in the Year 2024
+> 📦 176.6 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -213,17 +211,17 @@ Sunday                   252 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C#                       8 hrs 3 mins        ███████████░░░░░░░░░░░░░░   45.21 % 
-CSHTML                   7 hrs 28 mins       ██████████░░░░░░░░░░░░░░░   41.98 % 
-HTML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
-XML                      29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+C#                       9 hrs 27 mins       ███████████░░░░░░░░░░░░░░   45.73 % 
+CSHTML                   8 hrs 37 mins       ██████████░░░░░░░░░░░░░░░   41.73 % 
+HTML                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.46 % 
+XML                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-VS Code                  17 hrs 49 mins      █████████████████████████   100.00 % 
+VS Code                  20 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      17 hrs 49 mins      █████████████████████████   100.00 % 
+Mac                      20 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -239,7 +237,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/10/2024 12:34:01 UTC
+ Last Updated on 01/11/2024 12:33:04 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
