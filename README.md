@@ -168,15 +168,13 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-73%20hrs%208%20mins-blue)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-517.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 176.6 kB Used in GitHub's Storage 
+> 📦 176.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,133 Contributions in the Year 2024
  > 
@@ -213,11 +211,11 @@ Sunday                   252 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-CSHTML                   9 hrs 53 mins       ███████████░░░░░░░░░░░░░░   43.03 % 
-C#                       9 hrs 51 mins       ███████████░░░░░░░░░░░░░░   42.86 % 
-HTML                     1 hr 59 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-XML                      41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.04 % 
+C#                       10 hrs 27 mins      ███████████░░░░░░░░░░░░░░   45.45 % 
+CSHTML                   9 hrs 41 mins       ███████████░░░░░░░░░░░░░░   42.13 % 
+HTML                     2 hrs 12 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.58 % 
 CSS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
+XML                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.07 % 
 
 🔥 Editors: 
 VS Code                  22 hrs 59 mins      █████████████████████████   100.00 % 
@@ -239,7 +237,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/11/2024 12:31:58 UTC
+ Last Updated on 03/11/2024 12:30:55 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
