@@ -168,7 +168,7 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2030%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
 
@@ -176,7 +176,7 @@ Global Boarding Pass 🖍️🫠
 
 **🐱 My GitHub Data** 
 
-> 📦 177.0 kB Used in GitHub's Storage 
+> 📦 177.1 kB Used in GitHub's Storage 
  > 
 > 🏆 1,138 Contributions in the Year 2024
  > 
@@ -238,7 +238,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/11/2024 12:34:34 UTC
+ Last Updated on 13/11/2024 12:34:02 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
