@@ -168,15 +168,15 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-90%20hrs%2038%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-92%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 177.1 kB Used in GitHub's Storage 
+> 📦 177.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -211,16 +211,16 @@ Sunday                   258 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C#                       3 hrs 23 mins       ██████████████░░░░░░░░░░░   56.64 % 
-CSHTML                   2 hrs 34 mins       ███████████░░░░░░░░░░░░░░   42.95 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+C#                       4 hrs 44 mins       ████████████████░░░░░░░░░   63.50 % 
+CSHTML                   2 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   36.45 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 28 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -236,7 +236,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/11/2024 12:32:38 UTC
+ Last Updated on 17/11/2024 12:32:17 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
