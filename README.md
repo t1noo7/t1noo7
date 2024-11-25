@@ -168,9 +168,9 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-107%20hrs%2020%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
@@ -213,15 +213,15 @@ Sunday                   258 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C#                       6 hrs 18 mins       █████████████░░░░░░░░░░░░   50.44 % 
-CSHTML                   5 hrs 36 mins       ███████████░░░░░░░░░░░░░░   44.82 % 
-CSS                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.75 % 
+CSHTML                   6 hrs 28 mins       ████████████████░░░░░░░░░   64.16 % 
+C#                       3 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   29.90 % 
+CSS                      36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 30 mins      █████████████████████████   100.00 % 
+VS Code                  10 hrs 5 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 30 mins      █████████████████████████   100.00 % 
+Mac                      10 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -237,7 +237,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 24/11/2024 12:33:23 UTC
+ Last Updated on 25/11/2024 12:37:00 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
