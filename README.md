@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝Doug Engelbart invented the first computer mouse in around 1964 which was made of wood.❞</i>
+<i>❝“There are only two things wrong with C++:  The initial concept and the implementation.”— Bertrand Meyer   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
