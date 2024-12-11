@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝Whether you use Mozilla, Chrome Explore, please know that Mosaic was the first browser in  Just when I was born.❞</i>
+<i>❝“The greatest enemy of knowledge is not ignorance, it is the illusion of knowledge.”— Stephen Hawking   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
