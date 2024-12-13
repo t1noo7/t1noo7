@@ -176,7 +176,7 @@ Global Boarding Pass 🖍️🫠
 
 **🐱 My GitHub Data** 
 
-> 📦 177.9 kB Used in GitHub's Storage 
+> 📦 177.8 kB Used in GitHub's Storage 
  > 
 > 🏆 1,138 Contributions in the Year 2024
  > 
@@ -213,13 +213,13 @@ Sunday                   258 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-CSHTML                   1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 min               █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -235,7 +235,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2024 12:37:43 UTC
+ Last Updated on 13/12/2024 12:36:36 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
