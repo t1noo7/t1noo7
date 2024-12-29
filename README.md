@@ -168,7 +168,7 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-124%20hrs%2055%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -236,7 +236,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2024 12:31:38 UTC
+ Last Updated on 29/12/2024 12:31:00 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
