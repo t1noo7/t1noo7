@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“In the future, computers may weigh no more than 1.5 tonnes.”— Popular mechanics, 1949   ❞</i>
+<i>❝“Maybe stories are just data with a soul.”— Brené Brown❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
