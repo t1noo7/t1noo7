@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Good specifications will always improve programmer productivity far better than any programming tool or technique.”— Milt Bryce   ❞</i>
+<i>❝According to statista, by 2023, over 50 billion devices will be connected on the internet.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
