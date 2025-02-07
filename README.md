@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
+<i>❝Mircosoft included Solitaire in their operating systems “to soothe people intimidated by the operating system” and introduce users to graphic user interfaces and taught them how to use a mouse.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
