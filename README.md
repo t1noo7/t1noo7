@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝No human has won a tournament standard chess game against a high spec computer since 2005.❞</i>
+<i>❝“The great thing about predictions is that you can be wrong.”— Chris Wiggins❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
