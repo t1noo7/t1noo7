@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝Konrad Zuse is the inventor of the first programmable computer in the world. He did it in 1936 and named the computer as Z1. Konrad Zuse❞</i>
+<i>❝“The computer was born to solve problems that did not exist before.”— Bill Gates    ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
