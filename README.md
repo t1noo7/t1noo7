@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝Russians made a computer that ran on water in the mid of 1936.❞</i>
+<i>❝Sony released a kit that allows PS2s (Linux for PlayStation 2) to be used as a personal computer.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
