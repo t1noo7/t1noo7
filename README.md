@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   ❞</i>
+<i>❝“Simplicity, carried to the extreme, becomes elegance.”— Jon Franklin   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
