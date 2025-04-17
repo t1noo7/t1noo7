@@ -168,15 +168,17 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2046%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 171.4 kB Used in GitHub's Storage 
+ > 
+> 🏆 12 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -211,16 +213,16 @@ Sunday                   261 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C#                       13 hrs 37 mins      ████████████████░░░░░░░░░   65.29 % 
-CSHTML                   7 hrs 5 mins        ████████░░░░░░░░░░░░░░░░░   33.93 % 
-JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+C#                       7 hrs 52 mins       ████████████████░░░░░░░░░   65.38 % 
+CSHTML                   3 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   31.97 % 
+JSON                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+HTML                     9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
 
 🔥 Editors: 
-VS Code                  20 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  12 hrs 2 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      20 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      12 hrs 2 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -236,7 +238,7 @@ Dart                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 16/04/2025 12:38:03 UTC
+ Last Updated on 17/04/2025 12:37:27 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
