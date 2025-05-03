@@ -168,13 +168,15 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-217%20hrs%2027%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 171.9 kB Used in GitHub's Storage 
+> 📦 172.1 kB Used in GitHub's Storage 
  > 
 > 🏆 13 Contributions in the Year 2025
  > 
@@ -235,7 +237,7 @@ Python                   1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2025 12:37:34 UTC
+ Last Updated on 03/05/2025 12:34:54 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
