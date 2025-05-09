@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Tell me and I forget.  Teach me and I remember.  Involve me and I learn.”— Benjamin Franklin   ❞</i>
+<i>❝More than 80% of the emails sent daily are spams.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
