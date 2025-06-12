@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“Everyone by now presumably knows about the danger of premature optimization.  I think we should be just as worried about premature design — designing too early what a program should do.”— Paul Graham   ❞</i>
+<i>❝American mathematician Marion Tinsley played checkers for 45 years and lost only 7 games. He once beat a computer program, and later analysis showed that Tinsley had played the only possible winning strategy from 64 moves out.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
