@@ -168,13 +168,15 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-285%20hrs%2023%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 202.5 kB Used in GitHub's Storage 
+> 📦 202.4 kB Used in GitHub's Storage 
  > 
 > 🏆 17 Contributions in the Year 2025
  > 
@@ -233,7 +235,7 @@ TypeScript               1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/07/2025 12:43:30 UTC
+ Last Updated on 01/08/2025 12:44:12 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
