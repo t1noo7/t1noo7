@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The most likely way for the world to be destroyed, most experts agree, is by accident.  That’s where we come in; we’re computer professionals.  We cause accidents.”— Nathaniel Borenstein   ❞</i>
+<i>❝“A computer once beat me at chess, but it was no match for me at kick boxing.”— Emo Philips  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
