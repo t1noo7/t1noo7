@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“If we wish to count lines of code, we should not regard them as ‘lines produced’ but as ‘lines spent.'”— Edsger Dijkstra   ❞</i>
+<i>❝Web Arx security says more than 20,000 websites are hacked each day and most from the US❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
