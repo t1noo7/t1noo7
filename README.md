@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝In Windows 98, minimized windows are actually moved far away outside the average monitor’s resolution.❞</i>
+<i>❝“It’s hardware that makes a machine fast.  It’s software that makes a fast machine slow.”— Craig Bruce   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
