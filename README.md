@@ -109,7 +109,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝During the production of Toy Story 2, Pixar accidentally deleted the entire movie from its servers. The movie was saved by an employee, a new mother, who worked from home and had the data saved on her personal computer.❞</i>
+<i>❝“A program is never less than 90% complete, and never more than 95% complete.”— Terry Baker   ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
