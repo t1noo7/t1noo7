@@ -170,13 +170,13 @@ Global Boarding Pass 🖍️🫠
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-343%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 205.2 kB Used in GitHub's Storage 
+> 📦 205.4 kB Used in GitHub's Storage 
  > 
 > 🏆 20 Contributions in the Year 2025
  > 
@@ -213,13 +213,14 @@ Sunday                   261 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     15 mins             █████████████████████████   100.00 % 
+Java                     6 mins              ████████████████████████░   97.41 % 
+XML                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+VS Code                  6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+Mac                      6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -235,7 +236,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 14/11/2025 12:41:18 UTC
+ Last Updated on 15/11/2025 12:36:45 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
