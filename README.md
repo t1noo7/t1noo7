@@ -168,7 +168,7 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-344%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%206%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -213,13 +213,13 @@ Sunday                   261 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Java                     4 hrs 54 mins       █████████████████████████   100.00 % 
+Java                     4 hrs 39 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 54 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 39 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 54 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -235,7 +235,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 22/11/2025 12:36:18 UTC
+ Last Updated on 23/11/2025 12:36:00 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
