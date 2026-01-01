@@ -168,17 +168,17 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-491%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.5%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.50%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 206.4 kB Used in GitHub's Storage 
+> 📦 206.5 kB Used in GitHub's Storage 
  > 
-> 🏆 20 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -213,17 +213,17 @@ Sunday                   261 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-PHP                      12 hrs 58 mins      ██████████░░░░░░░░░░░░░░░   40.72 % 
-C#                       12 hrs 35 mins      ██████████░░░░░░░░░░░░░░░   39.49 % 
-XAML                     2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-Bash                     1 hr 37 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.09 % 
-XML                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+C#                       13 hrs 25 mins      █████████████░░░░░░░░░░░░   51.25 % 
+PHP                      8 hrs 45 mins       ████████░░░░░░░░░░░░░░░░░   33.43 % 
+XAML                     2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+XML                      1 hr 9 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+Other                    15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 🔥 Editors: 
-VS Code                  31 hrs 52 mins      █████████████████████████   100.00 % 
+VS Code                  26 hrs 11 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      31 hrs 52 mins      █████████████████████████   100.00 % 
+Mac                      26 hrs 11 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -239,7 +239,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 31/12/2025 12:43:50 UTC
+ Last Updated on 01/01/2026 12:43:25 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
