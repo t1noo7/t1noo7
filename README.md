@@ -42,6 +42,16 @@
 ![](https://github.com/t1noo7/t1noo7/blob/main/generated/overview.svg)
 ![](https://github.com/t1noo7/t1noo7/blob/main/generated/languages.svg)
 
+## Star History
+
+<a href="https://www.star-history.com/#t1noo7/t1noo7&t1noo7/terminal-stats&t1noo7/t1noo7-meme-daily&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=t1noo7/t1noo7,t1noo7/terminal-stats,t1noo7/t1noo7-meme-daily&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=t1noo7/t1noo7,t1noo7/terminal-stats,t1noo7/t1noo7-meme-daily&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=t1noo7/t1noo7,t1noo7/terminal-stats,t1noo7/t1noo7-meme-daily&type=date&legend=top-left" />
+ </picture>
+</a>
+
 ## Dabble in things cloud:
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 [![https://azure.com/](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)]([https://azure.com/)
