@@ -186,7 +186,7 @@ Global Boarding Pass 🖍️🫠
 
 **🐱 My GitHub Data** 
 
-> 📦 207.1 kB Used in GitHub's Storage 
+> 📦 207.2 kB Used in GitHub's Storage 
  > 
 > 🏆 1 Contributions in the Year 2026
  > 
@@ -223,13 +223,15 @@ Sunday                   261 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       15 mins             ███████████████████░░░░░░   75.60 % 
+XML                      4 mins              █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  20 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Mac                      20 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -245,7 +247,7 @@ TypeScript               1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 26/01/2026 12:50:41 UTC
+ Last Updated on 27/01/2026 12:52:23 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
