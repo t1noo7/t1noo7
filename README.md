@@ -178,9 +178,9 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-592%20hrs%2050%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-596%20hrs%2012%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.55%20million%20lines%20of%20code-blue?style=flat)
 
@@ -223,17 +223,17 @@ Sunday                   429 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               18 hrs 18 mins      ███████████████████░░░░░░   74.57 % 
-Bash                     1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
-Other                    1 hr 54 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Prisma                   1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+TypeScript               14 hrs 51 mins      ███████████████████████░░   93.08 % 
+Prisma                   43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 33 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 57 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      24 hrs 33 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -249,7 +249,7 @@ SCSS                     1 repo              ██░░░░░░░░░�
 
 
 
- Last Updated on 01/03/2026 12:50:38 UTC
+ Last Updated on 03/03/2026 12:59:18 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
