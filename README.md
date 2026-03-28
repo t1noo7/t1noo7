@@ -119,7 +119,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“As a rule, software systems do not work well until they have been used, and have failed repeatedly, in real applications.”— Dave Parnas   ❞</i>
+<i>❝“The problem of viruses is temporary and will be solved in two years.”— John McAfee, 1988  ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
