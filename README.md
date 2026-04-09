@@ -119,7 +119,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝According to statista, by 2023, over 50 billion devices will be connected on the internet.❞</i>
+<i>❝HP, Microsoft and Apple have one very interesting thing in common – they were all started in a garage.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
