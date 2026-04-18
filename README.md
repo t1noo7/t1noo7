@@ -223,14 +223,13 @@ Sunday                   432 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-PHP                      9 mins              ███████████████░░░░░░░░░░   58.71 % 
-JSON                     6 mins              ██████████░░░░░░░░░░░░░░░   41.29 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -246,7 +245,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/04/2026 13:21:46 UTC
+ Last Updated on 18/04/2026 13:03:57 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
