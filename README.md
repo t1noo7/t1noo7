@@ -119,7 +119,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“It was a joke, okay?  If we thought it would actually be used, we wouldn’t have written it!”— Mark Andreesen, speaking of the HTML tag BLINK      ❞</i>
+<i>❝Computers have memory or RAM, which stores items on the computer when they’re not in use. The processor stores everything your computer needs to run.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
