@@ -180,13 +180,13 @@ Global Boarding Pass 🖍️🫠
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%2014%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-23-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-21-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.62%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 220.3 kB Used in GitHub's Storage 
+> 📦 220.2 kB Used in GitHub's Storage 
  > 
 > 🏆 26 Contributions in the Year 2026
  > 
@@ -223,14 +223,13 @@ Sunday                   432 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   25 mins             █████████████████████████   99.18 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      25 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -246,7 +245,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/05/2026 13:45:35 UTC
+ Last Updated on 01/06/2026 17:40:10 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
