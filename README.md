@@ -119,7 +119,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝“The goal is to turn data into information, and information into insight.”— Carly Fiorina❞</i>
+<i>❝CAPTCHA is an acronym for “Completely Automated Public Turing test to tell Computers and Humans Apart”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
