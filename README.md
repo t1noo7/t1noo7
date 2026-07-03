@@ -119,7 +119,7 @@
 
 <div align="center">
   <!--STARTS_HERE_QUOTE_README-->
-<i>❝As computers run, they get hot. Computers have fans to keep them cool.❞</i>
+<i>❝It took Pixar 29 hours to render a single frame from Monster’s University. If done on a single CPU it would have taken 10,000 years to finish.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 
   <br/>
