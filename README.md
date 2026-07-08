@@ -178,17 +178,17 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-649%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-650%20hrs%2056%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.63%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 220.6 kB Used in GitHub's Storage 
+> 📦 220.7 kB Used in GitHub's Storage 
  > 
-> 🏆 39 Contributions in the Year 2026
+> 🏆 46 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -199,21 +199,21 @@ Global Boarding Pass 🖍️🫠
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                500 commits         ███████░░░░░░░░░░░░░░░░░░   26.19 % 
-🌆 Daytime                470 commits         ██████░░░░░░░░░░░░░░░░░░░   24.62 % 
-🌃 Evening                477 commits         ██████░░░░░░░░░░░░░░░░░░░   24.99 % 
-🌙 Night                  462 commits         ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+🌞 Morning                503 commits         ███████░░░░░░░░░░░░░░░░░░   26.25 % 
+🌆 Daytime                471 commits         ██████░░░░░░░░░░░░░░░░░░░   24.58 % 
+🌃 Evening                478 commits         ██████░░░░░░░░░░░░░░░░░░░   24.95 % 
+🌙 Night                  464 commits         ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.24 % 
-Tuesday                  21 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-Wednesday                345 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Thursday                 436 commits         ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
-Friday                   448 commits         ██████░░░░░░░░░░░░░░░░░░░   23.47 % 
-Saturday                 126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.60 % 
-Sunday                   433 commits         ██████░░░░░░░░░░░░░░░░░░░   22.68 % 
+Monday                   100 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Tuesday                  22 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
+Wednesday                351 commits         █████░░░░░░░░░░░░░░░░░░░░   18.32 % 
+Thursday                 436 commits         ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
+Friday                   448 commits         ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
+Saturday                 126 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
+Sunday                   433 commits         ██████░░░░░░░░░░░░░░░░░░░   22.60 % 
 ```
 
 
@@ -223,17 +223,17 @@ Sunday                   433 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               2 hrs 40 mins       ██████████████░░░░░░░░░░░   56.19 % 
-Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
-Bash                     42 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
+JavaScript               3 hrs 18 mins       ███████████████░░░░░░░░░░   61.22 % 
+Python                   45 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
+Bash                     43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Git Config               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
+Docker                   8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 46 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 46 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -249,7 +249,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/07/2026 14:34:30 UTC
+ Last Updated on 08/07/2026 14:07:25 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
