@@ -178,7 +178,7 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-679%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-683%20hrs%2031%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -186,9 +186,9 @@ Global Boarding Pass 🖍️🫠
 
 **🐱 My GitHub Data** 
 
-> 📦 222.2 kB Used in GitHub's Storage 
+> 📦 222.3 kB Used in GitHub's Storage 
  > 
-> 🏆 78 Contributions in the Year 2026
+> 🏆 80 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -199,21 +199,21 @@ Global Boarding Pass 🖍️🫠
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                510 commits         ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-🌆 Daytime                503 commits         ██████░░░░░░░░░░░░░░░░░░░   25.48 % 
-🌃 Evening                492 commits         ██████░░░░░░░░░░░░░░░░░░░   24.92 % 
-🌙 Night                  469 commits         ██████░░░░░░░░░░░░░░░░░░░   23.76 % 
+🌞 Morning                510 commits         ██████░░░░░░░░░░░░░░░░░░░   25.81 % 
+🌆 Daytime                503 commits         ██████░░░░░░░░░░░░░░░░░░░   25.46 % 
+🌃 Evening                494 commits         ██████░░░░░░░░░░░░░░░░░░░   25.00 % 
+🌙 Night                  469 commits         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   117 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+Monday                   119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
 Tuesday                  28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.42 % 
-Wednesday                357 commits         █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-Thursday                 459 commits         ██████░░░░░░░░░░░░░░░░░░░   23.25 % 
-Friday                   448 commits         ██████░░░░░░░░░░░░░░░░░░░   22.70 % 
-Saturday                 131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Sunday                   434 commits         █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
+Wednesday                357 commits         █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Thursday                 459 commits         ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
+Friday                   448 commits         ██████░░░░░░░░░░░░░░░░░░░   22.67 % 
+Saturday                 131 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
+Sunday                   434 commits         █████░░░░░░░░░░░░░░░░░░░░   21.96 % 
 ```
 
 
@@ -223,17 +223,17 @@ Sunday                   434 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               6 hrs 12 mins       █████████░░░░░░░░░░░░░░░░   34.50 % 
-Python                   5 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   30.48 % 
-JavaScript               4 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   23.63 % 
-Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+Python                   6 hrs 53 mins       █████████░░░░░░░░░░░░░░░░   37.61 % 
+TypeScript               5 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+JavaScript               4 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.49 % 
+Bash                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Markdown                 19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-VS Code                  18 hrs              █████████████████████████   100.00 % 
+VS Code                  18 hrs 20 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      18 hrs              █████████████████████████   100.00 % 
+Mac                      18 hrs 20 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -249,7 +249,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/07/2026 14:05:43 UTC
+ Last Updated on 21/07/2026 13:50:17 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
