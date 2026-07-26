@@ -178,7 +178,7 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-693%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-693%20hrs%2016%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
 
@@ -186,9 +186,9 @@ Global Boarding Pass 🖍️🫠
 
 **🐱 My GitHub Data** 
 
-> 📦 222.4 kB Used in GitHub's Storage 
+> 📦 222.3 kB Used in GitHub's Storage 
  > 
-> 🏆 90 Contributions in the Year 2026
+> 🏆 91 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -199,21 +199,21 @@ Global Boarding Pass 🖍️🫠
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                514 commits         ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-🌆 Daytime                503 commits         ██████░░░░░░░░░░░░░░░░░░░   25.33 % 
-🌃 Evening                500 commits         ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-🌙 Night                  469 commits         ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+🌞 Morning                514 commits         ██████░░░░░░░░░░░░░░░░░░░   25.87 % 
+🌆 Daytime                503 commits         ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+🌃 Evening                501 commits         ██████░░░░░░░░░░░░░░░░░░░   25.21 % 
+🌙 Night                  469 commits         ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
 Monday                   119 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 Tuesday                  28 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
-Wednesday                357 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.98 % 
-Thursday                 459 commits         ██████░░░░░░░░░░░░░░░░░░░   23.11 % 
-Friday                   454 commits         ██████░░░░░░░░░░░░░░░░░░░   22.86 % 
-Saturday                 135 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Sunday                   434 commits         █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Wednesday                357 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
+Thursday                 459 commits         ██████░░░░░░░░░░░░░░░░░░░   23.10 % 
+Friday                   454 commits         ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
+Saturday                 136 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
+Sunday                   434 commits         █████░░░░░░░░░░░░░░░░░░░░   21.84 % 
 ```
 
 
@@ -223,17 +223,17 @@ Sunday                   434 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   5 hrs 54 mins       ██████████░░░░░░░░░░░░░░░   39.15 % 
-TypeScript               3 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.63 % 
-JavaScript               2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-PHP                      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+Python                   5 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   36.16 % 
+TypeScript               4 hrs 44 mins       ████████░░░░░░░░░░░░░░░░░   30.42 % 
+JavaScript               2 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+PHP                      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Markdown                 19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 6 mins       █████████████████████████   100.00 % 
+VS Code                  15 hrs 34 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 6 mins       █████████████████████████   100.00 % 
+Mac                      15 hrs 34 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -249,7 +249,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/07/2026 13:26:17 UTC
+ Last Updated on 26/07/2026 13:22:16 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
