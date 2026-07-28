@@ -178,17 +178,15 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-694%20hrs%2057%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 222.8 kB Used in GitHub's Storage 
+> 📦 223.1 kB Used in GitHub's Storage 
  > 
-> 🏆 95 Contributions in the Year 2026
+> 🏆 103 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -199,21 +197,21 @@ Global Boarding Pass 🖍️🫠
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                522 commits         ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-🌆 Daytime                524 commits         ██████░░░░░░░░░░░░░░░░░░░   25.79 % 
-🌃 Evening                517 commits         ██████░░░░░░░░░░░░░░░░░░░   25.44 % 
-🌙 Night                  469 commits         ██████░░░░░░░░░░░░░░░░░░░   23.08 % 
+🌞 Morning                522 commits         ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+🌆 Daytime                525 commits         ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+🌃 Evening                524 commits         ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+🌙 Night                  469 commits         ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   137 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.74 % 
-Tuesday                  32 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-Wednesday                357 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.57 % 
-Thursday                 468 commits         ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
-Friday                   460 commits         ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-Saturday                 144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
-Sunday                   434 commits         █████░░░░░░░░░░░░░░░░░░░░   21.36 % 
+Monday                   138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+Tuesday                  39 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Wednesday                357 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Thursday                 468 commits         ██████░░░░░░░░░░░░░░░░░░░   22.94 % 
+Friday                   460 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Saturday                 144 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Sunday                   434 commits         █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
 ```
 
 
@@ -223,17 +221,23 @@ Sunday                   434 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   4 hrs 8 mins        █████████░░░░░░░░░░░░░░░░   34.28 % 
-TypeScript               4 hrs 6 mins        █████████░░░░░░░░░░░░░░░░   34.06 % 
-PHP                      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-JavaScript               1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Markdown                 3 hrs 39 mins       ███████░░░░░░░░░░░░░░░░░░   28.94 % 
+Python                   2 hrs 58 mins       ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
+TypeScript               2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+JavaScript               1 hr 51 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+PHP                      1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 4 mins       █████████████████████████   100.00 % 
+VS Code                  12 hrs 37 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      12 hrs 4 mins       █████████████████████████   100.00 % 
+Mac                      12 hrs 37 mins      █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -249,7 +253,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/07/2026 14:34:28 UTC
+ Last Updated on 28/07/2026 14:06:56 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
