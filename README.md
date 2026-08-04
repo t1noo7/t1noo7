@@ -180,13 +180,13 @@ Global Boarding Pass 🖍️🫠
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-704%20hrs%2013%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 225.4 kB Used in GitHub's Storage 
+> 📦 225.5 kB Used in GitHub's Storage 
  > 
 > 🏆 118 Contributions in the Year 2026
  > 
@@ -223,17 +223,17 @@ Sunday                   434 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               6 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.99 % 
-JavaScript               3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Markdown                 3 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Python                   2 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-TSConfig                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+TypeScript               7 hrs 53 mins       █████████████░░░░░░░░░░░░   52.20 % 
+JavaScript               3 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.52 % 
+Python                   2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
+Markdown                 1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
+TSConfig                 9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
 
 🔥 Editors: 
-VS Code                  16 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      16 hrs 41 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -255,7 +255,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 03/08/2026 14:38:55 UTC
+ Last Updated on 04/08/2026 14:11:16 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
