@@ -178,17 +178,15 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-706%20hrs%2041%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.67%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 225.6 kB Used in GitHub's Storage 
+> 📦 225.7 kB Used in GitHub's Storage 
  > 
-> 🏆 118 Contributions in the Year 2026
+> 🏆 123 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -196,52 +194,6 @@ Global Boarding Pass 🖍️🫠
  > 
 > 🔑 1 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                528 commits         ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
-🌆 Daytime                532 commits         ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
-🌃 Evening                537 commits         ██████░░░░░░░░░░░░░░░░░░░   25.88 % 
-🌙 Night                  478 commits         ██████░░░░░░░░░░░░░░░░░░░   23.04 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   141 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.80 % 
-Tuesday                  46 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
-Wednesday                363 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-Thursday                 472 commits         ██████░░░░░░░░░░░░░░░░░░░   22.75 % 
-Friday                   466 commits         ██████░░░░░░░░░░░░░░░░░░░   22.46 % 
-Saturday                 153 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
-Sunday                   434 commits         █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Ho_Chi_Minh
-
-💬 Programming Languages: 
-TypeScript               5 hrs 19 mins       █████████████░░░░░░░░░░░░   52.30 % 
-JavaScript               1 hr 57 mins        █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
-Python                   1 hr 29 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.69 % 
-Markdown                 1 hr 21 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 % 
-
-🔥 Editors: 
-VS Code                  10 hrs 10 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Mac                      10 hrs 10 mins      █████████████████████████   100.00 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -255,7 +207,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/08/2026 14:09:01 UTC
+ Last Updated on 07/08/2026 13:02:57 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
