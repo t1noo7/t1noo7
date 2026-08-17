@@ -178,7 +178,7 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-725%20hrs%201%20min-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-726%20hrs%2010%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -186,7 +186,7 @@ Global Boarding Pass 🖍️🫠
 
 **🐱 My GitHub Data** 
 
-> 📦 228.5 kB Used in GitHub's Storage 
+> 📦 228.8 kB Used in GitHub's Storage 
  > 
 > 🏆 158 Contributions in the Year 2026
  > 
@@ -223,17 +223,17 @@ Sunday                   450 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               7 hrs 5 mins        ███████████░░░░░░░░░░░░░░   45.99 % 
-JavaScript               5 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   37.69 % 
-Git Config               54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Python                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
-Docker                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.83 % 
+TypeScript               7 hrs 4 mins        ████████████░░░░░░░░░░░░░   46.71 % 
+JavaScript               5 hrs 28 mins       █████████░░░░░░░░░░░░░░░░   36.21 % 
+Git Config               1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+Python                   42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
+Docker                   26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.88 % 
 
 🔥 Editors: 
-VS Code                  15 hrs 25 mins      █████████████████████████   100.00 % 
+VS Code                  15 hrs 7 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      15 hrs 25 mins      █████████████████████████   100.00 % 
+Mac                      15 hrs 7 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -255,7 +255,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 16/08/2026 12:38:31 UTC
+ Last Updated on 17/08/2026 12:43:14 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
