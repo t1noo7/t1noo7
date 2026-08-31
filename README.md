@@ -186,7 +186,7 @@ Global Boarding Pass 🖍️🫠
 
 **🐱 My GitHub Data** 
 
-> 📦 226.8 kB Used in GitHub's Storage 
+> 📦 226.9 kB Used in GitHub's Storage 
  > 
 > 🏆 163 Contributions in the Year 2026
  > 
@@ -223,17 +223,13 @@ Sunday                   451 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               54 mins             ████████████████████░░░░░   81.29 % 
-TypeScript               9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.54 % 
-Git Config               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-TSConfig                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-SQL                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Mac                      1 hr 7 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -255,7 +251,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 16:09:50 UTC
+ Last Updated on 31/08/2026 18:51:49 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
