@@ -186,9 +186,9 @@ Global Boarding Pass 🖍️🫠
 
 **🐱 My GitHub Data** 
 
-> 📦 227.0 kB Used in GitHub's Storage 
+> 📦 227.1 kB Used in GitHub's Storage 
  > 
-> 🏆 171 Contributions in the Year 2026
+> 🏆 173 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -199,21 +199,21 @@ Global Boarding Pass 🖍️🫠
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                535 commits         ██████░░░░░░░░░░░░░░░░░░░   24.64 % 
-🌆 Daytime                573 commits         ███████░░░░░░░░░░░░░░░░░░   26.39 % 
-🌃 Evening                579 commits         ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-🌙 Night                  484 commits         ██████░░░░░░░░░░░░░░░░░░░   22.29 % 
+🌞 Morning                537 commits         ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+🌆 Daytime                573 commits         ███████░░░░░░░░░░░░░░░░░░   26.37 % 
+🌃 Evening                579 commits         ███████░░░░░░░░░░░░░░░░░░   26.65 % 
+🌙 Night                  484 commits         ██████░░░░░░░░░░░░░░░░░░░   22.27 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.82 % 
-Tuesday                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.40 % 
-Wednesday                369 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.00 % 
-Thursday                 490 commits         ██████░░░░░░░░░░░░░░░░░░░   22.57 % 
-Friday                   485 commits         ██████░░░░░░░░░░░░░░░░░░░   22.34 % 
+Monday                   148 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.81 % 
+Tuesday                  52 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Wednesday                371 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.07 % 
+Thursday                 490 commits         ██████░░░░░░░░░░░░░░░░░░░   22.55 % 
+Friday                   485 commits         ██████░░░░░░░░░░░░░░░░░░░   22.32 % 
 Saturday                 174 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
-Sunday                   453 commits         █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
+Sunday                   453 commits         █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
 ```
 
 
@@ -223,17 +223,17 @@ Sunday                   453 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   44.16 % 
-TypeScript               2 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
-Bash                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-Other                    14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 % 
+JavaScript               3 hrs 18 mins       ████████████░░░░░░░░░░░░░   49.21 % 
+TypeScript               2 hrs 15 mins       ████████░░░░░░░░░░░░░░░░░   33.63 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
+Other                    15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
+Git Config               15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.76 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 47 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 43 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 47 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 43 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -245,9 +245,9 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-TypeScript               3 repos             ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+JavaScript               7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
 PHP                      2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
+TypeScript               2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
 Java                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
 ```
@@ -255,7 +255,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/09/2026 16:06:25 UTC
+ Last Updated on 09/09/2026 16:01:34 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
