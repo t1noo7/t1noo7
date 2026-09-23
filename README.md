@@ -186,7 +186,7 @@ Global Boarding Pass 🖍️🫠
 
 **🐱 My GitHub Data** 
 
-> 📦 227.4 kB Used in GitHub's Storage 
+> 📦 227.5 kB Used in GitHub's Storage 
  > 
 > 🏆 192 Contributions in the Year 2026
  > 
@@ -223,17 +223,17 @@ Sunday                   453 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-TypeScript               2 hrs 31 mins       ██████████░░░░░░░░░░░░░░░   38.55 % 
-Python                   1 hr 49 mins        ███████░░░░░░░░░░░░░░░░░░   27.96 % 
-JavaScript               1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-Git Config               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.21 % 
+TypeScript               2 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.31 % 
+Python                   1 hr 52 mins        ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+JavaScript               1 hr 13 mins        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
+Bash                     32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
+Git Config               27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 
 🔥 Editors: 
-VS Code                  6 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  6 hrs 46 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      6 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      6 hrs 46 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -255,7 +255,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 16:24:11 UTC
+ Last Updated on 23/09/2026 16:14:23 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
