@@ -223,17 +223,17 @@ Sunday                   456 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JavaScript               2 hrs 29 mins       ██████████████░░░░░░░░░░░   57.11 % 
-TypeScript               1 hr 19 mins        ████████░░░░░░░░░░░░░░░░░   30.46 % 
-Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
-Python                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.79 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.49 % 
+JavaScript               1 hr 48 mins        █████████████░░░░░░░░░░░░   53.40 % 
+TypeScript               1 hr 3 mins         ████████░░░░░░░░░░░░░░░░░   31.01 % 
+Bash                     16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+Python                   15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  3 hrs 23 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 21 mins       █████████████████████████   100.00 % 
+Mac                      3 hrs 23 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -255,7 +255,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 07/10/2026 18:31:23 UTC
+ Last Updated on 08/10/2026 18:30:26 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
