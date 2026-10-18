@@ -186,7 +186,7 @@ Global Boarding Pass 🖍️🫠
 
 **🐱 My GitHub Data** 
 
-> 📦 226.8 kB Used in GitHub's Storage 
+> 📦 226.7 kB Used in GitHub's Storage 
  > 
 > 🏆 215 Contributions in the Year 2026
  > 
@@ -223,14 +223,17 @@ Sunday                   456 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-Python                   34 mins             █████████████████████░░░░   83.85 % 
-JavaScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
+JSON                     1 hr 16 mins        ████████████░░░░░░░░░░░░░   49.76 % 
+JavaScript               59 mins             ██████████░░░░░░░░░░░░░░░   38.81 % 
+Python                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-VS Code                  41 mins             █████████████████████████   100.00 % 
+VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      41 mins             █████████████████████████   100.00 % 
+Mac                      2 hrs 33 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -252,7 +255,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/10/2026 15:04:21 UTC
+ Last Updated on 18/10/2026 15:28:26 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
