@@ -178,7 +178,7 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-769%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-772%20hrs%2012%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
@@ -223,17 +223,17 @@ Sunday                   456 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JSON                     1 hr 16 mins        ████████████░░░░░░░░░░░░░   49.76 % 
-JavaScript               59 mins             ██████████░░░░░░░░░░░░░░░   38.81 % 
-Python                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+JSON                     1 hr 51 mins        ███████████░░░░░░░░░░░░░░   45.35 % 
+JavaScript               1 hr 28 mins        █████████░░░░░░░░░░░░░░░░   36.13 % 
+Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+C#                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 33 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 5 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      2 hrs 33 mins       █████████████████████████   100.00 % 
+Mac                      4 hrs 5 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -255,7 +255,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 15:28:26 UTC
+ Last Updated on 19/10/2026 18:24:54 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
