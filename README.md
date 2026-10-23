@@ -180,7 +180,7 @@ Global Boarding Pass 🖍️🫠
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-773%20hrs%2045%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-2.69%20million%20lines%20of%20code-blue?style=flat)
 
@@ -223,17 +223,17 @@ Sunday                   456 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-JSON                     1 hr 51 mins        ███████████░░░░░░░░░░░░░░   45.27 % 
-JavaScript               1 hr 29 mins        █████████░░░░░░░░░░░░░░░░   36.14 % 
-Python                   33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
-C#                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+JSON                     1 hr 51 mins        ██████████░░░░░░░░░░░░░░░   38.94 % 
+JavaScript               1 hr 29 mins        ████████░░░░░░░░░░░░░░░░░   31.28 % 
+Python                   1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.60 % 
+C#                       9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.35 % 
+TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 6 mins        █████████████████████████   100.00 % 
+VS Code                  4 hrs 47 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 6 mins        █████████████████████████   100.00 % 
+Mac                      4 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -255,7 +255,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 16:44:04 UTC
+ Last Updated on 23/10/2026 16:34:43 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
