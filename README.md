@@ -178,7 +178,7 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20mins-blue?style=flat)
 
@@ -188,7 +188,7 @@ Global Boarding Pass 🖍️🫠
 
 **🐱 My GitHub Data** 
 
-> 📦 226.7 kB Used in GitHub's Storage 
+> 📦 226.8 kB Used in GitHub's Storage 
  > 
 > 🏆 217 Contributions in the Year 2026
  > 
@@ -225,25 +225,24 @@ Sunday                   456 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C++                      2 hrs 10 mins       ███████████░░░░░░░░░░░░░░   45.76 % 
-Python                   1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   24.82 % 
-JSON                     1 hr 6 mins         ██████░░░░░░░░░░░░░░░░░░░   23.22 % 
-Markdown                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Docker                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+C++                      3 hrs 6 mins        █████████████░░░░░░░░░░░░   51.96 % 
+JSON                     2 hrs               ████████░░░░░░░░░░░░░░░░░   33.63 % 
+Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 45 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 59 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      4 hrs 45 mins       █████████████████████████   100.00 % 
+Mac                      5 hrs 59 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (5.72%)
+⏱ AI Coding Time: 16 mins (4.54%)
 
-✍️ 0 lines written by AI, 66 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 96 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -271,7 +270,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/10/2026 18:06:07 UTC
+ Last Updated on 30/10/2026 17:46:31 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
