@@ -178,7 +178,7 @@ Global Boarding Pass 🖍️🫠
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-780%20hrs%2025%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-782%20hrs%2019%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20mins-blue?style=flat)
 
@@ -225,24 +225,25 @@ Sunday                   456 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Ho_Chi_Minh
 
 💬 Programming Languages: 
-C++                      3 hrs 6 mins        █████████████░░░░░░░░░░░░   51.96 % 
-JSON                     2 hrs               ████████░░░░░░░░░░░░░░░░░   33.63 % 
-Python                   33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.39 % 
-Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+C++                      4 hrs 25 mins       ███████████████░░░░░░░░░░   59.63 % 
+JSON                     2 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   34.68 % 
+Markdown                 18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Python                   6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 59 mins       █████████████████████████   100.00 % 
+VS Code                  7 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Mac                      5 hrs 59 mins       █████████████████████████   100.00 % 
+Mac                      7 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 mins (4.54%)
+⏱ AI Coding Time: 16 mins (3.66%)
 
-✍️ 0 lines written by AI, 96 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 173 lines written by hand (0.0% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
@@ -270,7 +271,7 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/10/2026 17:46:31 UTC
+ Last Updated on 31/10/2026 16:54:41 UTC
 <!--END_SECTION:waka-->
 </td>
 <td align="right">
